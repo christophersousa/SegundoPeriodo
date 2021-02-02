@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            font: normal 18px arial;
+            
+        }
+
+        table{
+            padding: 8px;
+            margin: 5px;
+            border: 1px solid;
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 30%;
+        }
+
+        table td{
+            border: 1px solid grey;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tabela de Saudação</h1>
+
+    <table>
+
+        <tr>
+            <th>Entrada</th>
+            <th>Saída</th>
+        </tr>
+        <tr>
+            <td>
+                <input type="text" id="n1" name="n1" placeholder="Seu nome">
+            </td>
+            <td>
+                <div id="s1"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="text" id="n2" name="n2" placeholder="Seu nome">
+            </td>
+            <td>
+                <div id="s2"></div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="text" id="n3" name="n3" placeholder="Seu nome">
+            </td>
+            <td>
+                <div id="s3"></div>
+            </td>
+        </tr>
+        
+    </table>
+
+
+    <script>
+        const name = document.getElementById('n1');
+
+        name.addEventListener('keyup', function(e){
+            var saida1 = document.querySelector('div#s1')
+            var res = String(name.value)
+            var enter = e.which || e.keyCode;
+            if (enter == 13) { 
+                saida1.innerHTML = `Hello, <b>${res}</b>!`
+            }
+        });
+
+        const name2 = document.getElementById('n2');
+
+        name2.addEventListener('keyup', function(e){
+            var saida1 = document.querySelector('div#s2')
+            var res = String(name2.value)
+            var enter = e.which || e.keyCode;
+            if (enter == 13) { 
+                saida1.innerHTML = `Hello, <b>${res}</b>!`
+            }
+        });
+
+        const name3 = document.getElementById('n3');
+
+        name3.addEventListener('keyup', function(e){
+            var saida1 = document.querySelector('div#s3')
+            var res = String(name3.value)
+            var enter = e.which || e.keyCode;
+            if (enter == 13) { 
+                saida1.innerHTML = `Hello, <b>${res}</b>!`
+            }
+        });
+    </script>
+</body>
+</html>
