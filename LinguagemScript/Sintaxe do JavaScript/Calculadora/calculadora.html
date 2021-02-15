@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Document</title>
+    <style></style>
+</head>
+<body>
+    <main class="container">
+        <div id="resposta">
+
+        </div>
+        <div class="button">
+            ON
+            <div id="off"></div>
+        </div>
+        <main class="container_operadores">
+            <div class="Number">
+                <div class="container_number">
+                    <input type="button" value="7" id="n7">
+                    <input type="button" value="8" id="n8">
+                    <input type="button" value="9" id="n9">
+                </div>
+                <div class="container_number">
+                    <input type="button" value="4" id="n4">
+                    <input type="button" value="5" id="n5">
+                    <input type="button" value="6" id="n6">
+                </div>
+                <div class="container_number">
+                    <input type="button" value="1" id="n1">
+                    <input type="button" value="2" id="n2">
+                    <input type="button" value="3" id="n3">
+                </div>
+                <div class="container_number">
+                    <input type="button" value="0" id="n0">
+                    <input type="button" value="00" id="n00">
+                    <input type="button" value="." id="ponto">
+                </div>
+            </div>
+            <div class="operadores" >
+                <div class="divisão" id="operation">
+                    <i class="fas fa-divide"></i>
+                </div>
+                
+                <div class="multiplicacao" id="operation">
+                    <i class="fas fa-times"></i>
+                </div>
+
+                <div class="menos" id="operation">
+                    <i class="fas fa-minus"></i>
+                </div>
+
+                <div class="soma" id="operation">
+                    <i class="fas fa-plus"></i>
+                </div>
+                <div class="igual" id="operation">
+                    <i class="fas fa-equals"></i>
+                </div>
+            </div>
+        </main>
+    </main>
+
+    <script>
+       const a = document.querySelector('div.button')
+       a.addEventListener('click', clicar)
+       function clicar(){
+           const res = document.querySelector('div#resposta')
+           const b = document.querySelector('div#off')
+           res.innerHTML = '0'
+           b.style.background = '#76F504 '
+           while ()
+
+       }
+    </script>
+</body>
+</html>

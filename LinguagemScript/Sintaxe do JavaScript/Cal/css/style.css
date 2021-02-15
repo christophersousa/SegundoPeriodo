@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
+
+body{
+     font: normal 18px sans-serif;
+     display: flex;
+     justify-content: center;
+     color:white;
+}
+
+main.container{
+    width: 50%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/58/99/64586a0ad51dc03.jpg);
+    background-size: cover;
+}
+main.container h1{
+    font-size: 60px;
+    font-family: 'lato', sans-serif;
+    margin: 50px 0 40px 0;
+    color: rgb(255, 9, 9);
+}
+
+ input{
+    width: 165px;
+    height: 20px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(240, 240, 240);
+    margin-bottom: 20px;
+}
+
+#operador{
+    width: 90px;
+    border-radius: 5px;
+}
+
+#calcular{
+    width: 200px;
+    height: 20px;
+    background-color: rgb(42, 255, 42);
+    cursor: pointer;
+}

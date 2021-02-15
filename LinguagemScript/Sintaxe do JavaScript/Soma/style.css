@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@100;300;400;500;600&family=Titillium+Web:ital,wght@0,200;0,300;1,200;1,300&display=swap');
+
+body{
+    font: normal 20px 'Titillium Web', sans-serif;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    width: 40%;
+    height: 200px;
+    padding: 20px;
+    background-color: #2EFFEB ;
+    text-align: center;
+}
+.container #numero1, #numero2{
+    width: 180px;
+    height: 20px;
+    background-color: rgb(231, 231, 231);
+    border-radius: 5px;
+}
+
+#soma{
+    width: 80px;
+    height: 26px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #F9F511;
+    box-shadow: 2px 3px rgb(0, 0,0,0.5);
+}
+input{
+    margin-bottom: 20px;
+}
