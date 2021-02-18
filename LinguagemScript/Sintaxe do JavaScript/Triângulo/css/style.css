@@ -1,0 +1,31 @@
+body{
+    font: normal 25px sans-serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.container{
+    width: 50%;
+    height: 400px;
+    background-image: url(https://www.simbolos.com.br/wp-content/uploads/2019/04/sh_triangulo_1040466160-1.jpg);
+    background-size: cover;
+}
+h1{
+    color: red;
+    margin: 50px 0 50px 0;
+}
+
+#enviar{
+    width: 100px;
+    height: 25px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: rgb(34, 255, 34);
+    cursor: pointer;
+}
+
+#res{
+    margin-top: 45px;
+}
