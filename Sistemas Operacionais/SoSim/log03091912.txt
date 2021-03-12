@@ -1,0 +1,754 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+28 : Processo 1254695 alocacao de blocos no pagefile
+28 : Processo 1254695 HwPF - Executável0
+28 : Processo 1254695 HwPF - Executável1
+28 : Processo 1254695 HwPF - Executável2
+28 : Processo 1254695 HwPF - Executável3
+28 : Processo 1254695 HwPF - Executável4
+28 : Processo 1254695 criado
+29 : Processo 1254695 Pronto -> Exec
+30 : Processo 1254695 Exec -> Pronto por tempo
+30 : Processo 1256479 alocacao de blocos no pagefile
+30 : Processo 1256479 HwPF - Executável0
+30 : Processo 1256479 HwPF - Executável1
+30 : Processo 1256479 HwPF - Executável2
+30 : Processo 1256479 HwPF - Executável3
+30 : Processo 1256479 HwPF - Executável4
+30 : Processo 1256479 criado
+31 : Processo 1254695 Pronto -> Exec
+32 : Processo 1254695 Exec -> Pronto por tempo
+33 : Processo 1256479 Pronto -> Exec
+34 : Processo 1256479 Exec -> Pronto por tempo
+35 : Processo 1254695 Pronto -> Exec
+36 : Processo 1254695 Exec -> Pronto por tempo
+37 : Processo 1256479 Pronto -> Exec
+38 : Processo 1256479 Exec -> Pronto por tempo
+39 : Processo 1254695 Pronto -> Exec
+40 : Processo 1254695 Exec -> Pronto por tempo
+41 : Processo 1256479 Pronto -> Exec
+42 : Processo 1256479 Exec -> Pronto por tempo
+43 : Processo 1254695 Pronto -> Exec
+44 : Processo 1254695 Exec -> Pronto por tempo
+45 : Processo 1256479 Pronto -> Exec
+46 : Processo 1256479 Exec -> Pronto por tempo
+47 : Processo 1254695 Pronto -> Exec
+48 : Processo 1254695 Exec -> Pronto por tempo
+49 : Processo 1256479 Pronto -> Exec
+50 : Processo 1256479 Exec -> Pronto por tempo
+51 : Processo 1254695 Pronto -> Exec
+52 : Processo 1254695 Exec -> Pronto por tempo
+53 : Processo 1256479 Pronto -> Exec
+54 : Processo 1256479 Exec -> Pronto por tempo
+55 : Processo 1254695 Pronto -> Exec
+56 : Processo 1254695 Exec -> Pronto por tempo
+57 : Processo 1256479 Pronto -> Exec
+58 : Processo 1256479 Exec -> Pronto por tempo
+59 : Processo 1254695 Pronto -> Exec
+60 : Processo 1254695 Exec -> Pronto por tempo
+61 : Processo 1256479 Pronto -> Exec
+62 : Processo 1256479 Exec -> Pronto por tempo
+63 : Processo 1254695 Pronto -> Exec
+64 : Processo 1254695 Exec -> Pronto por tempo
+65 : Processo 1256479 Pronto -> Exec
+66 : Processo 1256479 Exec -> Pronto por tempo
+67 : Processo 1254695 Pronto -> Exec
+68 : Processo 1254695 Exec -> Pronto por tempo
+69 : Processo 1256479 Pronto -> Exec
+70 : Processo 1256479 Exec -> Pronto por tempo
+71 : Processo 1254695 Pronto -> Exec
+72 : Processo 1254695 Exec -> Pronto por tempo
+73 : Processo 1256479 Pronto -> Exec
+74 : Processo 1256479 Exec -> Pronto por tempo
+75 : Processo 1254695 Pronto -> Exec
+76 : Processo 1254695 Exec -> Pronto por tempo
+77 : Processo 1256479 Pronto -> Exec
+78 : Processo 1256479 Exec -> Pronto por tempo
+79 : Processo 1254695 Pronto -> Exec
+80 : Processo 1254695 Exec -> Pronto por tempo
+81 : Processo 1256479 Pronto -> Exec
+82 : Processo 1256479 Exec -> Pronto por tempo
+83 : Processo 1254695 Pronto -> Exec
+84 : Processo 1254695 Exec -> Pronto por tempo
+85 : Processo 1256479 Pronto -> Exec
+86 : Processo 1256479 Exec -> Pronto por tempo
+87 : Processo 1254695 Pronto -> Exec
+88 : Processo 1254695 Exec -> Pronto por tempo
+89 : Processo 1256479 Pronto -> Exec
+90 : Processo 1256479 Exec -> Pronto por tempo
+91 : Processo 1254695 Pronto -> Exec
+92 : Processo 1254695 Exec -> Pronto por tempo
+93 : Processo 1256479 Pronto -> Exec
+94 : Processo 1256479 Exec -> Pronto por tempo
+95 : Processo 1254695 Pronto -> Exec
+96 : Processo 1254695 Exec -> Pronto por tempo
+97 : Processo 1256479 Pronto -> Exec
+98 : Processo 1256479 Exec -> Pronto por tempo
+99 : Processo 1254695 Pronto -> Exec
+100 : Processo 1254695 Exec -> Pronto por tempo
+101 : Processo 1256479 Pronto -> Exec
+102 : Processo 1256479 Exec -> Pronto por tempo
+103 : Processo 1254695 Pronto -> Exec
+104 : Processo 1254695 Exec -> Pronto por tempo
+105 : Processo 1256479 Pronto -> Exec
+106 : Processo 1256479 Exec -> Pronto por tempo
+107 : Processo 1254695 Pronto -> Exec
+108 : Processo 1254695 Exec -> Pronto por tempo
+109 : Processo 1256479 Pronto -> Exec
+110 : Processo 1256479 Exec -> Pronto por tempo
+111 : Processo 1254695 Pronto -> Exec
+112 : Processo 1254695 Exec -> Pronto por tempo
+113 : Processo 1256479 Pronto -> Exec
+114 : Processo 1256479 Exec -> Pronto por tempo
+115 : Processo 1254695 Pronto -> Exec
+116 : Processo 1254695 Exec -> Pronto por tempo
+117 : Processo 1256479 Pronto -> Exec
+118 : Processo 1256479 Exec -> Pronto por tempo
+119 : Processo 1254695 Pronto -> Exec
+120 : Processo 1254695 Exec -> Pronto por tempo
+121 : Processo 1256479 Pronto -> Exec
+122 : Processo 1256479 Exec -> Pronto por tempo
+123 : Processo 1254695 Pronto -> Exec
+124 : Processo 1254695 Exec -> Pronto por tempo
+125 : Processo 1256479 Pronto -> Exec
+126 : Processo 1256479 Exec -> Pronto por tempo
+127 : Processo 1254695 Pronto -> Exec
+128 : Processo 1254695 Exec -> Pronto por tempo
+129 : Processo 1256479 Pronto -> Exec
+130 : Processo 1256479 Exec -> Pronto por tempo
+131 : Processo 1254695 Pronto -> Exec
+132 : Processo 1254695 Exec -> Pronto por tempo
+133 : Processo 1256479 Pronto -> Exec
+134 : Processo 1256479 Exec -> Pronto por tempo
+135 : Processo 1254695 Pronto -> Exec
+136 : Processo 1254695 Exec -> Pronto por tempo
+137 : Processo 1256479 Pronto -> Exec
+138 : Processo 1256479 Exec -> Pronto por tempo
+139 : Processo 1254695 Pronto -> Exec
+140 : Processo 1254695 Exec -> Pronto por tempo
+141 : Processo 1256479 Pronto -> Exec
+142 : Processo 1256479 Exec -> Pronto por tempo
+143 : Processo 1254695 Pronto -> Exec
+144 : Processo 1254695 Exec -> Pronto por tempo
+145 : Processo 1256479 Pronto -> Exec
+146 : Processo 1256479 Exec -> Pronto por tempo
+147 : Processo 1254695 Pronto -> Exec
+148 : Processo 1254695 Exec -> Pronto por tempo
+149 : Processo 1256479 Pronto -> Exec
+150 : Processo 1256479 Exec -> Pronto por tempo
+151 : Processo 1254695 Pronto -> Exec
+152 : Processo 1254695 Exec -> Pronto por tempo
+153 : Processo 1256479 Pronto -> Exec
+154 : Processo 1256479 Exec -> Pronto por tempo
+155 : Processo 1254695 Pronto -> Exec
+156 : Processo 1254695 Exec -> Pronto por tempo
+157 : Processo 1256479 Pronto -> Exec
+158 : Processo 1256479 Exec -> Pronto por tempo
+159 : Processo 1254695 Pronto -> Exec
+160 : Processo 1254695 Exec -> Pronto por tempo
+161 : Processo 1256479 Pronto -> Exec
+162 : Processo 1256479 Exec -> Pronto por tempo
+163 : Processo 1254695 Pronto -> Exec
+164 : Processo 1254695 Exec -> Pronto por tempo
+165 : Processo 1256479 Pronto -> Exec
+166 : Processo 1256479 Exec -> Pronto por tempo
+167 : Processo 1254695 Pronto -> Exec
+168 : Processo 1254695 Exec -> Pronto por tempo
+169 : Processo 1256479 Pronto -> Exec
+170 : Processo 1256479 Exec -> Pronto por tempo
+171 : Processo 1254695 Pronto -> Exec
+172 : Processo 1254695 Exec -> Pronto por tempo
+173 : Processo 1256479 Pronto -> Exec
+174 : Processo 1256479 Exec -> Pronto por tempo
+175 : Processo 1254695 Pronto -> Exec
+176 : Processo 1254695 Exec -> Pronto por tempo
+177 : Processo 1256479 Pronto -> Exec
+178 : Processo 1256479 Exec -> Pronto por tempo
+179 : Processo 1254695 Pronto -> Exec
+180 : Processo 1254695 Exec -> Pronto por tempo
+181 : Processo 1256479 Pronto -> Exec
+182 : Processo 1256479 Exec -> Pronto por tempo
+183 : Processo 1254695 Pronto -> Exec
+184 : Processo 1254695 Exec -> Pronto por tempo
+185 : Processo 1256479 Pronto -> Exec
+186 : Processo 1256479 Exec -> Pronto por tempo
+187 : Processo 1254695 Pronto -> Exec
+188 : Processo 1254695 Exec -> Pronto por tempo
+189 : Processo 1256479 Pronto -> Exec
+190 : Processo 1256479 Exec -> Pronto por tempo
+191 : Processo 1254695 Pronto -> Exec
+192 : Processo 1254695 Exec -> Pronto por tempo
+193 : Processo 1256479 Pronto -> Exec
+194 : Processo 1256479 Exec -> Pronto por tempo
+195 : Processo 1254695 Pronto -> Exec
+196 : Processo 1254695 Exec -> Pronto por tempo
+197 : Processo 1256479 Pronto -> Exec
+198 : Processo 1256479 Exec -> Pronto por tempo
+199 : Processo 1254695 Pronto -> Exec
+200 : Processo 1254695 Exec -> Pronto por tempo
+201 : Processo 1256479 Pronto -> Exec
+202 : Processo 1256479 Exec -> Pronto por tempo
+203 : Processo 1254695 Pronto -> Exec
+204 : Processo 1254695 Exec -> Pronto por tempo
+205 : Processo 1256479 Pronto -> Exec
+206 : Processo 1256479 Exec -> Pronto por tempo
+207 : Processo 1254695 Pronto -> Exec
+208 : Processo 1254695 Exec -> Pronto por tempo
+209 : Processo 1256479 Pronto -> Exec
+210 : Processo 1256479 Exec -> Pronto por tempo
+211 : Processo 1254695 Pronto -> Exec
+212 : Processo 1254695 Exec -> Pronto por tempo
+213 : Processo 1256479 Pronto -> Exec
+214 : Processo 1256479 Exec -> Pronto por tempo
+215 : Processo 1254695 Pronto -> Exec
+216 : Processo 1254695 Exec -> Pronto por tempo
+217 : Processo 1256479 Pronto -> Exec
+218 : Processo 1256479 Exec -> Pronto por tempo
+219 : Processo 1254695 Pronto -> Exec
+220 : Processo 1254695 Exec -> Pronto por tempo
+221 : Processo 1256479 Pronto -> Exec
+222 : Processo 1256479 Exec -> Pronto por tempo
+223 : Processo 1254695 Pronto -> Exec
+224 : Processo 1254695 Exec -> Pronto por tempo
+225 : Processo 1256479 Pronto -> Exec
+226 : Processo 1256479 Exec -> Pronto por tempo
+227 : Processo 1254695 Pronto -> Exec
+228 : Processo 1254695 Exec -> Pronto por tempo
+229 : Processo 1256479 Pronto -> Exec
+230 : Processo 1256479 Exec -> Pronto por tempo
+231 : Processo 1254695 Pronto -> Exec
+232 : Processo 1254695 Exec -> Pronto por tempo
+233 : Processo 1256479 Pronto -> Exec
+234 : Processo 1256479 Exec -> Pronto por tempo
+235 : Processo 1254695 Pronto -> Exec
+236 : Processo 1254695 Exec -> Pronto por tempo
+237 : Processo 1256479 Pronto -> Exec
+238 : Processo 1256479 Exec -> Pronto por tempo
+239 : Processo 1254695 Pronto -> Exec
+240 : Processo 1254695 Exec -> Pronto por tempo
+241 : Processo 1256479 Pronto -> Exec
+242 : Processo 1256479 Exec -> Pronto por tempo
+243 : Processo 1254695 Pronto -> Exec
+244 : Processo 1254695 Exec -> Pronto por tempo
+245 : Processo 1256479 Pronto -> Exec
+246 : Processo 1256479 Exec -> Pronto por tempo
+247 : Processo 1254695 Pronto -> Exec
+248 : Processo 1254695 Exec -> Pronto por tempo
+249 : Processo 1256479 Pronto -> Exec
+250 : Processo 1256479 Exec -> Pronto por tempo
+251 : Processo 1254695 Pronto -> Exec
+252 : Processo 1254695 Exec -> Pronto por tempo
+253 : Processo 1256479 Pronto -> Exec
+254 : Processo 1256479 Exec -> Pronto por tempo
+255 : Processo 1254695 Pronto -> Exec
+256 : Processo 1254695 Exec -> Pronto por tempo
+257 : Processo 1256479 Pronto -> Exec
+258 : Processo 1256479 Exec -> Pronto por tempo
+259 : Processo 1254695 Pronto -> Exec
+260 : Processo 1254695 Exec -> Pronto por tempo
+261 : Processo 1256479 Pronto -> Exec
+262 : Processo 1256479 Exec -> Pronto por tempo
+263 : Processo 1254695 Pronto -> Exec
+264 : Processo 1254695 Exec -> Pronto por tempo
+265 : Processo 1256479 Pronto -> Exec
+266 : Processo 1256479 Exec -> Pronto por tempo
+267 : Processo 1254695 Pronto -> Exec
+268 : Processo 1254695 Exec -> Pronto por tempo
+269 : Processo 1256479 Pronto -> Exec
+270 : Processo 1256479 Exec -> Pronto por tempo
+271 : Processo 1254695 Pronto -> Exec
+272 : Processo 1254695 Exec -> Pronto por tempo
+273 : Processo 1256479 Pronto -> Exec
+274 : Processo 1256479 Exec -> Pronto por tempo
+275 : Processo 1254695 Pronto -> Exec
+276 : Processo 1254695 Exec -> Pronto por tempo
+277 : Processo 1256479 Pronto -> Exec
+278 : Processo 1256479 Exec -> Pronto por tempo
+279 : Processo 1254695 Pronto -> Exec
+280 : Processo 1254695 Exec -> Pronto por tempo
+281 : Processo 1256479 Pronto -> Exec
+282 : Processo 1256479 Exec -> Pronto por tempo
+283 : Processo 1254695 Pronto -> Exec
+284 : Processo 1254695 Exec -> Pronto por tempo
+285 : Processo 1256479 Pronto -> Exec
+286 : Processo 1256479 Exec -> Pronto por tempo
+287 : Processo 1254695 Pronto -> Exec
+288 : Processo 1254695 Exec -> Pronto por tempo
+289 : Processo 1256479 Pronto -> Exec
+290 : Processo 1256479 Exec -> Pronto por tempo
+291 : Processo 1254695 Pronto -> Exec
+292 : Processo 1254695 Exec -> Pronto por tempo
+293 : Processo 1256479 Pronto -> Exec
+294 : Processo 1256479 Exec -> Pronto por tempo
+295 : Processo 1254695 Pronto -> Exec
+296 : Processo 1254695 Exec -> Pronto por tempo
+297 : Processo 1256479 Pronto -> Exec
+298 : Processo 1256479 Exec -> Pronto por tempo
+299 : Processo 1254695 Pronto -> Exec
+300 : Processo 1254695 Exec -> Pronto por tempo
+301 : Processo 1256479 Pronto -> Exec
+302 : Processo 1256479 Exec -> Pronto por tempo
+303 : Processo 1254695 Pronto -> Exec
+304 : Processo 1254695 Exec -> Pronto por tempo
+305 : Processo 1256479 Pronto -> Exec
+306 : Processo 1256479 Exec -> Pronto por tempo
+307 : Processo 1254695 Pronto -> Exec
+308 : Processo 1254695 Exec -> Pronto por tempo
+309 : Processo 1256479 Pronto -> Exec
+310 : Processo 1256479 Exec -> Pronto por tempo
+311 : Processo 1254695 Pronto -> Exec
+312 : Processo 1254695 Exec -> Pronto por tempo
+313 : Processo 1256479 Pronto -> Exec
+314 : Processo 1256479 Exec -> Pronto por tempo
+315 : Processo 1254695 Pronto -> Exec
+316 : Processo 1254695 Exec -> Pronto por tempo
+317 : Processo 1256479 Pronto -> Exec
+318 : Processo 1256479 Exec -> Pronto por tempo
+319 : Processo 1254695 Pronto -> Exec
+320 : Processo 1254695 Exec -> Pronto por tempo
+321 : Processo 1256479 Pronto -> Exec
+322 : Processo 1256479 Exec -> Pronto por tempo
+323 : Processo 1254695 Pronto -> Exec
+324 : Processo 1254695 Exec -> Pronto por tempo
+325 : Processo 1256479 Pronto -> Exec
+326 : Processo 1256479 Exec -> Pronto por tempo
+327 : Processo 1254695 Pronto -> Exec
+328 : Processo 1254695 Exec -> Pronto por tempo
+329 : Processo 1256479 Pronto -> Exec
+330 : Processo 1256479 Exec -> Pronto por tempo
+331 : Processo 1254695 Pronto -> Exec
+332 : Processo 1254695 Exec -> Pronto por tempo
+333 : Processo 1256479 Pronto -> Exec
+334 : Processo 1256479 Exec -> Pronto por tempo
+335 : Processo 1254695 Pronto -> Exec
+336 : Processo 1254695 Exec -> Pronto por tempo
+337 : Processo 1256479 Pronto -> Exec
+338 : Processo 1256479 Exec -> Pronto por tempo
+339 : Processo 1254695 Pronto -> Exec
+340 : Processo 1254695 Exec -> Pronto por tempo
+341 : Processo 1256479 Pronto -> Exec
+342 : Processo 1256479 Exec -> Pronto por tempo
+343 : Processo 1254695 Pronto -> Exec
+344 : Processo 1254695 Exec -> Pronto por tempo
+345 : Processo 1256479 Pronto -> Exec
+346 : Processo 1256479 Exec -> Pronto por tempo
+347 : Processo 1254695 Pronto -> Exec
+348 : Processo 1254695 Exec -> Pronto por tempo
+349 : Processo 1256479 Pronto -> Exec
+350 : Processo 1256479 Exec -> Pronto por tempo
+351 : Processo 1254695 Pronto -> Exec
+352 : Processo 1254695 Exec -> Pronto por tempo
+353 : Processo 1256479 Pronto -> Exec
+354 : Processo 1256479 Exec -> Pronto por tempo
+355 : Processo 1254695 Pronto -> Exec
+356 : Processo 1254695 Exec -> Pronto por tempo
+357 : Processo 1256479 Pronto -> Exec
+358 : Processo 1256479 Exec -> Pronto por tempo
+359 : Processo 1254695 Pronto -> Exec
+360 : Processo 1254695 Exec -> Pronto por tempo
+361 : Processo 1256479 Pronto -> Exec
+362 : Processo 1256479 Exec -> Pronto por tempo
+363 : Processo 1254695 Pronto -> Exec
+364 : Processo 1254695 Exec -> Pronto por tempo
+365 : Processo 1256479 Pronto -> Exec
+366 : Processo 1256479 Exec -> Pronto por tempo
+367 : Processo 1254695 Pronto -> Exec
+368 : Processo 1254695 Exec -> Pronto por tempo
+369 : Processo 1256479 Pronto -> Exec
+370 : Processo 1256479 Exec -> Pronto por tempo
+371 : Processo 1254695 Pronto -> Exec
+372 : Processo 1254695 Exec -> Pronto por tempo
+373 : Processo 1256479 Pronto -> Exec
+374 : Processo 1256479 Exec -> Pronto por tempo
+375 : Processo 1254695 Pronto -> Exec
+376 : Processo 1254695 Exec -> Pronto por tempo
+377 : Processo 1256479 Pronto -> Exec
+378 : Processo 1256479 Exec -> Pronto por tempo
+379 : Processo 1254695 Pronto -> Exec
+380 : Processo 1254695 Exec -> Pronto por tempo
+381 : Processo 1256479 Pronto -> Exec
+382 : Processo 1256479 Exec -> Pronto por tempo
+383 : Processo 1254695 Pronto -> Exec
+384 : Processo 1254695 Exec -> Pronto por tempo
+385 : Processo 1256479 Pronto -> Exec
+386 : Processo 1256479 Exec -> Pronto por tempo
+387 : Processo 1254695 Pronto -> Exec
+388 : Processo 1254695 Exec -> Pronto por tempo
+389 : Processo 1256479 Pronto -> Exec
+390 : Processo 1256479 Exec -> Pronto por tempo
+391 : Processo 1254695 Pronto -> Exec
+392 : Processo 1254695 Exec -> Pronto por tempo
+393 : Processo 1256479 Pronto -> Exec
+394 : Processo 1256479 Exec -> Pronto por tempo
+395 : Processo 1254695 Pronto -> Exec
+396 : Processo 1254695 Exec -> Pronto por tempo
+397 : Processo 1256479 Pronto -> Exec
+398 : Processo 1256479 Exec -> Pronto por tempo
+399 : Processo 1254695 Pronto -> Exec
+400 : Processo 1254695 Exec -> Pronto por tempo
+401 : Processo 1256479 Pronto -> Exec
+402 : Processo 1256479 Exec -> Pronto por tempo
+403 : Processo 1254695 Pronto -> Exec
+404 : Processo 1254695 Exec -> Pronto por tempo
+405 : Processo 1256479 Pronto -> Exec
+406 : Processo 1256479 Exec -> Pronto por tempo
+407 : Processo 1254695 Pronto -> Exec
+408 : Processo 1254695 Exec -> Pronto por tempo
+409 : Processo 1256479 Pronto -> Exec
+410 : Processo 1256479 Exec -> Pronto por tempo
+411 : Processo 1254695 Pronto -> Exec
+412 : Processo 1254695 Exec -> Pronto por tempo
+413 : Processo 1256479 Pronto -> Exec
+414 : Processo 1256479 Exec -> Pronto por tempo
+415 : Processo 1254695 Pronto -> Exec
+416 : Processo 1254695 Exec -> Pronto por tempo
+417 : Processo 1256479 Pronto -> Exec
+418 : Processo 1256479 Exec -> Pronto por tempo
+419 : Processo 1254695 Pronto -> Exec
+420 : Processo 1254695 Exec -> Pronto por tempo
+421 : Processo 1256479 Pronto -> Exec
+422 : Processo 1256479 Exec -> Pronto por tempo
+423 : Processo 1254695 Pronto -> Exec
+424 : Processo 1254695 Exec -> Pronto por tempo
+425 : Processo 1256479 Pronto -> Exec
+426 : Processo 1256479 Exec -> Pronto por tempo
+427 : Processo 1254695 Pronto -> Exec
+428 : Processo 1254695 Exec -> Pronto por tempo
+429 : Processo 1256479 Pronto -> Exec
+430 : Processo 1256479 Exec -> Pronto por tempo
+431 : Processo 1254695 Pronto -> Exec
+432 : Processo 1254695 Exec -> Pronto por tempo
+433 : Processo 1256479 Pronto -> Exec
+434 : Processo 1256479 Exec -> Pronto por tempo
+435 : Processo 1254695 Pronto -> Exec
+436 : Processo 1254695 Exec -> Pronto por tempo
+437 : Processo 1256479 Pronto -> Exec
+438 : Processo 1256479 Exec -> Pronto por tempo
+439 : Processo 1254695 Pronto -> Exec
+440 : Processo 1254695 Exec -> Pronto por tempo
+441 : Processo 1256479 Pronto -> Exec
+442 : Processo 1256479 Exec -> Pronto por tempo
+443 : Processo 1254695 Pronto -> Exec
+444 : Processo 1254695 Exec -> Pronto por tempo
+445 : Processo 1256479 Pronto -> Exec
+446 : Processo 1256479 Exec -> Pronto por tempo
+447 : Processo 1254695 Pronto -> Exec
+448 : Processo 1254695 Exec -> Pronto por tempo
+449 : Processo 1256479 Pronto -> Exec
+450 : Processo 1256479 Exec -> Pronto por tempo
+451 : Processo 1254695 Pronto -> Exec
+452 : Processo 1254695 Exec -> Pronto por tempo
+453 : Processo 1256479 Pronto -> Exec
+454 : Processo 1256479 Exec -> Pronto por tempo
+455 : Processo 1254695 Pronto -> Exec
+456 : Processo 1254695 Exec -> Pronto por tempo
+457 : Processo 1256479 Pronto -> Exec
+458 : Processo 1256479 Exec -> Pronto por tempo
+459 : Processo 1254695 Pronto -> Exec
+460 : Processo 1254695 Exec -> Pronto por tempo
+461 : Processo 1256479 Pronto -> Exec
+462 : Processo 1256479 Exec -> Pronto por tempo
+463 : Processo 1254695 Pronto -> Exec
+464 : Processo 1254695 Exec -> Pronto por tempo
+465 : Processo 1256479 Pronto -> Exec
+466 : Processo 1256479 Exec -> Pronto por tempo
+467 : Processo 1254695 Pronto -> Exec
+468 : Processo 1254695 Exec -> Pronto por tempo
+469 : Processo 1256479 Pronto -> Exec
+470 : Processo 1256479 Exec -> Pronto por tempo
+471 : Processo 1254695 Pronto -> Exec
+472 : Processo 1254695 Exec -> Pronto por tempo
+473 : Processo 1256479 Pronto -> Exec
+474 : Processo 1256479 Exec -> Pronto por tempo
+475 : Processo 1254695 Pronto -> Exec
+476 : Processo 1254695 Exec -> Pronto por tempo
+477 : Processo 1256479 Pronto -> Exec
+478 : Processo 1256479 Exec -> Pronto por tempo
+479 : Processo 1254695 Pronto -> Exec
+480 : Processo 1254695 Exec -> Pronto por tempo
+481 : Processo 1256479 Pronto -> Exec
+482 : Processo 1256479 Exec -> Pronto por tempo
+483 : Processo 1254695 Pronto -> Exec
+484 : Processo 1254695 Exec -> Pronto por tempo
+485 : Processo 1256479 Pronto -> Exec
+486 : Processo 1256479 Exec -> Pronto por tempo
+487 : Processo 1254695 Pronto -> Exec
+488 : Processo 1254695 Exec -> Pronto por tempo
+489 : Processo 1256479 Pronto -> Exec
+490 : Processo 1256479 Exec -> Pronto por tempo
+491 : Processo 1254695 Pronto -> Exec
+492 : Processo 1254695 Exec -> Pronto por tempo
+493 : Processo 1256479 Pronto -> Exec
+494 : Processo 1256479 Exec -> Pronto por tempo
+495 : Processo 1254695 Pronto -> Exec
+496 : Processo 1254695 Exec -> Pronto por tempo
+497 : Processo 1256479 Pronto -> Exec
+498 : Processo 1256479 Exec -> Pronto por tempo
+499 : Processo 1254695 Pronto -> Exec
+500 : Processo 1254695 Exec -> Pronto por tempo
+501 : Processo 1256479 Pronto -> Exec
+502 : Processo 1256479 Exec -> Pronto por tempo
+503 : Processo 1254695 Pronto -> Exec
+504 : Processo 1254695 Exec -> Pronto por tempo
+505 : Processo 1256479 Pronto -> Exec
+506 : Processo 1256479 Exec -> Pronto por tempo
+507 : Processo 1254695 Pronto -> Exec
+508 : Processo 1254695 Exec -> Pronto por tempo
+509 : Processo 1256479 Pronto -> Exec
+510 : Processo 1256479 Exec -> Pronto por tempo
+511 : Processo 1254695 Pronto -> Exec
+512 : Processo 1254695 Exec -> Pronto por tempo
+513 : Processo 1256479 Pronto -> Exec
+514 : Processo 1256479 Exec -> Pronto por tempo
+515 : Processo 1254695 Pronto -> Exec
+516 : Processo 1254695 Exec -> Pronto por tempo
+517 : Processo 1256479 Pronto -> Exec
+518 : Processo 1256479 Exec -> Pronto por tempo
+519 : Processo 1254695 Pronto -> Exec
+520 : Processo 1254695 Exec -> Pronto por tempo
+521 : Processo 1256479 Pronto -> Exec
+522 : Processo 1256479 Exec -> Pronto por tempo
+523 : Processo 1254695 Pronto -> Exec
+524 : Processo 1254695 Exec -> Pronto por tempo
+525 : Processo 1256479 Pronto -> Exec
+526 : Processo 1256479 Exec -> Pronto por tempo
+527 : Processo 1254695 Pronto -> Exec
+528 : Processo 1254695 Exec -> Pronto por tempo
+529 : Processo 1256479 Pronto -> Exec
+530 : Processo 1256479 Exec -> Pronto por tempo
+531 : Processo 1254695 Pronto -> Exec
+532 : Processo 1254695 Exec -> Pronto por tempo
+533 : Processo 1256479 Pronto -> Exec
+534 : Processo 1256479 Exec -> Pronto por tempo
+535 : Processo 1254695 Pronto -> Exec
+536 : Processo 1254695 Exec -> Pronto por tempo
+537 : Processo 1256479 Pronto -> Exec
+538 : Processo 1256479 Exec -> Pronto por tempo
+539 : Processo 1254695 Pronto -> Exec
+540 : Processo 1254695 Exec -> Pronto por tempo
+541 : Processo 1256479 Pronto -> Exec
+542 : Processo 1256479 Exec -> Pronto por tempo
+543 : Processo 1254695 Pronto -> Exec
+544 : Processo 1254695 Exec -> Pronto por tempo
+545 : Processo 1256479 Pronto -> Exec
+546 : Processo 1256479 Exec -> Pronto por tempo
+547 : Processo 1254695 Pronto -> Exec
+548 : Processo 1254695 Exec -> Pronto por tempo
+549 : Processo 1256479 Pronto -> Exec
+550 : Processo 1256479 Exec -> Pronto por tempo
+551 : Processo 1254695 Pronto -> Exec
+552 : Processo 1254695 Exec -> Pronto por tempo
+553 : Processo 1256479 Pronto -> Exec
+554 : Processo 1256479 Exec -> Pronto por tempo
+555 : Processo 1254695 Pronto -> Exec
+556 : Processo 1254695 Exec -> Pronto por tempo
+557 : Processo 1256479 Pronto -> Exec
+558 : Processo 1256479 Exec -> Pronto por tempo
+559 : Processo 1254695 Pronto -> Exec
+560 : Processo 1254695 Exec -> Pronto por tempo
+561 : Processo 1256479 Pronto -> Exec
+562 : Processo 1256479 Exec -> Pronto por tempo
+563 : Processo 1254695 Pronto -> Exec
+564 : Processo 1254695 Exec -> Pronto por tempo
+565 : Processo 1256479 Pronto -> Exec
+566 : Processo 1256479 Exec -> Pronto por tempo
+567 : Processo 1254695 Pronto -> Exec
+568 : Processo 1254695 Exec -> Pronto por tempo
+569 : Processo 1256479 Pronto -> Exec
+570 : Processo 1256479 Exec -> Pronto por tempo
+571 : Processo 1254695 Pronto -> Exec
+572 : Processo 1254695 Exec -> Pronto por tempo
+573 : Processo 1256479 Pronto -> Exec
+574 : Processo 1256479 Exec -> Pronto por tempo
+575 : Processo 1254695 Pronto -> Exec
+576 : Processo 1254695 Exec -> Pronto por tempo
+577 : Processo 1256479 Pronto -> Exec
+578 : Processo 1256479 Exec -> Pronto por tempo
+579 : Processo 1254695 Pronto -> Exec
+580 : Processo 1254695 Exec -> Pronto por tempo
+581 : Processo 1256479 Pronto -> Exec
+582 : Processo 1256479 Exec -> Pronto por tempo
+583 : Processo 1254695 Pronto -> Exec
+584 : Processo 1254695 Exec -> Pronto por tempo
+585 : Processo 1256479 Pronto -> Exec
+586 : Processo 1256479 Exec -> Pronto por tempo
+587 : Processo 1254695 Pronto -> Exec
+588 : Processo 1254695 Exec -> Pronto por tempo
+589 : Processo 1256479 Pronto -> Exec
+590 : Processo 1256479 Exec -> Pronto por tempo
+591 : Processo 1254695 Pronto -> Exec
+592 : Processo 1254695 Exec -> Pronto por tempo
+593 : Processo 1256479 Pronto -> Exec
+594 : Processo 1256479 Exec -> Pronto por tempo
+595 : Processo 1254695 Pronto -> Exec
+596 : Processo 1254695 Exec -> Pronto por tempo
+597 : Processo 1256479 Pronto -> Exec
+598 : Processo 1256479 Exec -> Pronto por tempo
+599 : Processo 1254695 Pronto -> Exec
+600 : Processo 1254695 Exec -> Pronto por tempo
+601 : Processo 1256479 Pronto -> Exec
+602 : Processo 1256479 Exec -> Pronto por tempo
+603 : Processo 1254695 Pronto -> Exec
+604 : Processo 1254695 Exec -> Pronto por tempo
+605 : Processo 1256479 Pronto -> Exec
+606 : Processo 1256479 Exec -> Pronto por tempo
+607 : Processo 1254695 Pronto -> Exec
+608 : Processo 1254695 Exec -> Pronto por tempo
+609 : Processo 1256479 Pronto -> Exec
+610 : Processo 1256479 Exec -> Pronto por tempo
+611 : Processo 1254695 Pronto -> Exec
+612 : Processo 1254695 Exec -> Pronto por tempo
+613 : Processo 1256479 Pronto -> Exec
+614 : Processo 1256479 Exec -> Pronto por tempo
+615 : Processo 1254695 Pronto -> Exec
+616 : Processo 1254695 Exec -> Pronto por tempo
+617 : Processo 1256479 Pronto -> Exec
+618 : Processo 1256479 Exec -> Pronto por tempo
+619 : Processo 1254695 Pronto -> Exec
+620 : Processo 1254695 Exec -> Pronto por tempo
+621 : Processo 1256479 Pronto -> Exec
+622 : Processo 1256479 Exec -> Pronto por tempo
+623 : Processo 1254695 Pronto -> Exec
+624 : Processo 1254695 Exec -> Pronto por tempo
+625 : Processo 1256479 Pronto -> Exec
+626 : Processo 1256479 Exec -> Pronto por tempo
+627 : Processo 1254695 Pronto -> Exec
+628 : Processo 1254695 Exec -> Pronto por tempo
+629 : Processo 1256479 Pronto -> Exec
+630 : Processo 1256479 Exec -> Pronto por tempo
+631 : Processo 1254695 Pronto -> Exec
+632 : Processo 1254695 Exec -> Pronto por tempo
+633 : Processo 1256479 Pronto -> Exec
+634 : Processo 1256479 Exec -> Pronto por tempo
+635 : Processo 1254695 Pronto -> Exec
+636 : Processo 1254695 Exec -> Pronto por tempo
+637 : Processo 1256479 Pronto -> Exec
+638 : Processo 1256479 Exec -> Pronto por tempo
+639 : Processo 1254695 Pronto -> Exec
+640 : Processo 1254695 Exec -> Pronto por tempo
+641 : Processo 1256479 Pronto -> Exec
+642 : Processo 1256479 Exec -> Pronto por tempo
+643 : Processo 1254695 Pronto -> Exec
+644 : Processo 1254695 Exec -> Pronto por tempo
+645 : Processo 1256479 Pronto -> Exec
+646 : Processo 1256479 Exec -> Pronto por tempo
+647 : Processo 1254695 Pronto -> Exec
+648 : Processo 1254695 Exec -> Pronto por tempo
+649 : Processo 1256479 Pronto -> Exec
+650 : Processo 1256479 Exec -> Pronto por tempo
+651 : Processo 1254695 Pronto -> Exec
+652 : Processo 1254695 Exec -> Pronto por tempo
+653 : Processo 1256479 Pronto -> Exec
+654 : Processo 1256479 Exec -> Pronto por tempo
+655 : Processo 1254695 Pronto -> Exec
+656 : Processo 1254695 Exec -> Pronto por tempo
+657 : Processo 1256479 Pronto -> Exec
+658 : Processo 1256479 Exec -> Pronto por tempo
+659 : Processo 1254695 Pronto -> Exec
+660 : Processo 1254695 Exec -> Pronto por tempo
+661 : Processo 1256479 Pronto -> Exec
+662 : Processo 1256479 Exec -> Pronto por tempo
+663 : Processo 1254695 Pronto -> Exec
+664 : Processo 1254695 Exec -> Pronto por tempo
+665 : Processo 1256479 Pronto -> Exec
+666 : Processo 1256479 Exec -> Pronto por tempo
+667 : Processo 1254695 Pronto -> Exec
+668 : Processo 1254695 Exec -> Pronto por tempo
+669 : Processo 1256479 Pronto -> Exec
+670 : Processo 1256479 Exec -> Pronto por tempo
+671 : Processo 1254695 Pronto -> Exec
+672 : Processo 1254695 Exec -> Pronto por tempo
+673 : Processo 1256479 Pronto -> Exec
+674 : Processo 1256479 Exec -> Pronto por tempo
+675 : Processo 1254695 Pronto -> Exec
+676 : Processo 1254695 Exec -> Pronto por tempo
+677 : Processo 1256479 Pronto -> Exec
+678 : Processo 1256479 Exec -> Pronto por tempo
+679 : Processo 1254695 Pronto -> Exec
+680 : Processo 1254695 Exec -> Pronto por tempo
+681 : Processo 1256479 Pronto -> Exec
+682 : Processo 1256479 Exec -> Pronto por tempo
+683 : Processo 1254695 Pronto -> Exec
+684 : Processo 1254695 Exec -> Pronto por tempo
+685 : Processo 1256479 Pronto -> Exec
+686 : Processo 1256479 Exec -> Pronto por tempo
+687 : Processo 1254695 Pronto -> Exec
+688 : Processo 1254695 Exec -> Pronto por tempo
+689 : Processo 1256479 Pronto -> Exec
+690 : Processo 1256479 Exec -> Pronto por tempo
+691 : Processo 1254695 Pronto -> Exec
+692 : Processo 1254695 Exec -> Pronto por tempo
+693 : Processo 1256479 Pronto -> Exec
+694 : Processo 1256479 Exec -> Pronto por tempo
+695 : Processo 1254695 Pronto -> Exec
+696 : Processo 1254695 Exec -> Pronto por tempo
+697 : Processo 1256479 Pronto -> Exec
+698 : Processo 1256479 Exec -> Pronto por tempo
+699 : Processo 1254695 Pronto -> Exec
+700 : Processo 1254695 Exec -> Pronto por tempo
+701 : Processo 1256479 Pronto -> Exec
+702 : Processo 1256479 Exec -> Pronto por tempo
+703 : Processo 1254695 Pronto -> Exec
+704 : Processo 1254695 Exec -> Pronto por tempo
+705 : Processo 1256479 Pronto -> Exec
+706 : Processo 1256479 Exec -> Pronto por tempo
+707 : Processo 1254695 Pronto -> Exec
+708 : Processo 1254695 Exec -> Pronto por tempo
+709 : Processo 1256479 Pronto -> Exec
+710 : Processo 1256479 Exec -> Pronto por tempo
+711 : Processo 1254695 Pronto -> Exec
+712 : Processo 1254695 Exec -> Pronto por tempo
+713 : Processo 1256479 Pronto -> Exec
+714 : Processo 1256479 Exec -> Pronto por tempo
+715 : Processo 1254695 Pronto -> Exec
+716 : Processo 1254695 Exec -> Pronto por tempo
+717 : Processo 1256479 Pronto -> Exec
+718 : Processo 1256479 Exec -> Pronto por tempo
+719 : Processo 1254695 Pronto -> Exec
+720 : Processo 1254695 Exec -> Pronto por tempo
+721 : Processo 1256479 Pronto -> Exec
+722 : Processo 1256479 Exec -> Pronto por tempo
+723 : Processo 1254695 Pronto -> Exec
+724 : Processo 1254695 Exec -> Pronto por tempo
+725 : Processo 1256479 Pronto -> Exec
+726 : Processo 1256479 Exec -> Pronto por tempo
+727 : Processo 1254695 Pronto -> Exec
+728 : Processo 1254695 Exec -> Pronto por tempo
+729 : Processo 1256479 Pronto -> Exec
+730 : Processo 1256479 Exec -> Pronto por tempo
+731 : Processo 1254695 Pronto -> Exec
+732 : Processo 1254695 Exec -> Pronto por tempo
+733 : Processo 1256479 Pronto -> Exec
+734 : Processo 1256479 Exec -> Pronto por tempo
+735 : Processo 1254695 Pronto -> Exec
+736 : Processo 1254695 Exec -> Pronto por tempo
+737 : Processo 1256479 Pronto -> Exec
+738 : Processo 1256479 Exec -> Pronto por tempo
+739 : Processo 1254695 Pronto -> Exec
+740 : Processo 1254695 Exec -> Pronto por tempo
+741 : Processo 1256479 Pronto -> Exec
+742 : Processo 1256479 Exec -> Pronto por tempo
+743 : Processo 1254695 Pronto -> Exec
+744 : Processo 1254695 Exec -> Pronto por tempo
+745 : Processo 1256479 Pronto -> Exec
+746 : Processo 1256479 Exec -> Pronto por tempo
+747 : Processo 1254695 Pronto -> Exec
+748 : Processo 1254695 Exec -> Pronto por tempo
+749 : Processo 1256479 Pronto -> Exec
+750 : Processo 1256479 Exec -> Pronto por tempo
+751 : Processo 1254695 Pronto -> Exec
+752 : Processo 1254695 Exec -> Pronto por tempo
+753 : Processo 1256479 Pronto -> Exec
+754 : Processo 1256479 Exec -> Pronto por tempo
+755 : Processo 1254695 Pronto -> Exec
+756 : Processo 1254695 Exec -> Pronto por tempo
+757 : Processo 1256479 Pronto -> Exec
+758 : Processo 1256479 Exec -> Pronto por tempo
+759 : Processo 1254695 Pronto -> Exec
+760 : Processo 1254695 Exec -> Pronto por tempo
+761 : Processo 1256479 Pronto -> Exec
+762 : Processo 1256479 Exec -> Pronto por tempo
+763 : Processo 1254695 Pronto -> Exec
+764 : Processo 1254695 Exec -> Pronto por tempo
+765 : Processo 1256479 Pronto -> Exec
+766 : Processo 1256479 Exec -> Pronto

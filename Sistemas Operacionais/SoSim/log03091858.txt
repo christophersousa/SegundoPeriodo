@@ -1,0 +1,197 @@
+0 : Inicializando SOsim ...
+6 : SOsim pronto
+45 : Processo 5935118 alocacao de blocos no pagefile
+45 : Processo 5935118 HwPF - Executável0
+45 : Processo 5935118 HwPF - Executável1
+45 : Processo 5935118 HwPF - Executável2
+45 : Processo 5935118 HwPF - Executável3
+45 : Processo 5935118 HwPF - Executável4
+45 : Processo 5935118 criado
+46 : Processo 5935118 Pronto -> Exec
+47 : Processo 5935118 Exec -> Pronto por tempo
+48 : Processo 5935118 Pronto -> Exec
+49 : Processo 5935118 Exec -> Pronto por tempo
+50 : Processo 5935118 Pronto -> Exec
+51 : Processo 5935118 Exec -> Pronto por tempo
+52 : Processo 5935118 Pronto -> Exec
+53 : Processo 5935118 Exec -> Pronto por tempo
+54 : Processo 5935118 Pronto -> Exec
+55 : Processo 5935118 Exec -> Pronto por tempo
+56 : Processo 5935118 Pronto -> Exec
+57 : Processo 5935118 Exec -> Pronto por tempo
+58 : Processo 5935118 Pronto -> Exec
+59 : Processo 5935118 Exec -> Pronto por tempo
+60 : Processo 5935118 Pronto -> Exec
+61 : Processo 5935118 Exec -> Pronto por tempo
+62 : Processo 5935118 Pronto -> Exec
+63 : Processo 5935118 Exec -> Pronto por tempo
+64 : Processo 5935118 Pronto -> Exec
+65 : Processo 5935118 Exec -> Pronto por tempo
+66 : Processo 5935118 Pronto -> Exec
+67 : Processo 5935118 Exec -> Pronto por tempo
+68 : Processo 5935118 Pronto -> Exec
+69 : Processo 5935118 Exec -> Pronto por tempo
+70 : Processo 5935118 Pronto -> Exec
+71 : Processo 5935118 Exec -> Pronto por tempo
+72 : Processo 5935118 Pronto -> Exec
+73 : Processo 5935118 Exec -> Pronto por tempo
+73 : Processo 3806 alocacao de blocos no pagefile
+73 : Processo 3806 HwPF - Executável0
+73 : Processo 3806 HwPF - Executável1
+73 : Processo 3806 HwPF - Executável2
+73 : Processo 3806 HwPF - Executável3
+73 : Processo 3806 HwPF - Executável4
+73 : Processo 3806 criado
+74 : Processo 5935118 Pronto -> Exec
+75 : Processo 5935118 Exec -> Pronto por tempo
+76 : Processo 3806 Pronto -> Exec
+76 : Processo 3806 Exec -> I/O
+77 : Processo 5935118 Pronto -> Exec
+78 : Processo 5935118 Exec -> Pronto por tempo
+79 : Processo 5935118 Pronto -> Exec
+80 : Processo 5935118 Exec -> Pronto por tempo
+81 : Processo 5935118 Pronto -> Exec
+82 : Processo 5935118 Exec -> Pronto por tempo
+83 : Processo 5935118 Pronto -> Exec
+84 : Processo 5935118 Exec -> Pronto por tempo
+85 : Processo 5935118 Pronto -> Exec
+86 : Processo 5935118 Exec -> Pronto por tempo
+87 : Processo 5935118 Pronto -> Exec
+88 : Processo 5935118 Exec -> Pronto por tempo
+89 : Processo 3806 Pronto -> Exec
+90 : Processo 3806 Exec -> Pronto por tempo
+91 : Processo 5935118 Pronto -> Exec
+92 : Processo 5935118 Exec -> Pronto por tempo
+93 : Processo 3806 Pronto -> Exec
+93 : Processo 3806 Exec -> I/O
+94 : Processo 5935118 Pronto -> Exec
+95 : Processo 5935118 Exec -> Pronto por tempo
+96 : Processo 5935118 Pronto -> Exec
+97 : Processo 5935118 Exec -> Pronto por tempo
+98 : Processo 5935118 Pronto -> Exec
+99 : Processo 5935118 Exec -> Pronto por tempo
+100 : Processo 5935118 Pronto -> Exec
+101 : Processo 5935118 Exec -> Pronto por tempo
+102 : Processo 5935118 Pronto -> Exec
+103 : Processo 5935118 Exec -> Pronto por tempo
+104 : Processo 5935118 Pronto -> Exec
+105 : Processo 5935118 Exec -> Pronto por tempo
+106 : Processo 3806 Pronto -> Exec
+106 : Processo 3806 Exec -> I/O
+107 : Processo 5935118 Pronto -> Exec
+108 : Processo 5935118 Exec -> Pronto por tempo
+109 : Processo 5935118 Pronto -> Exec
+110 : Processo 5935118 Exec -> Pronto por tempo
+111 : Processo 5935118 Pronto -> Exec
+112 : Processo 5935118 Exec -> Pronto por tempo
+113 : Processo 5935118 Pronto -> Exec
+114 : Processo 5935118 Exec -> Pronto por tempo
+115 : Processo 5935118 Pronto -> Exec
+116 : Processo 5935118 Exec -> Pronto por tempo
+117 : Processo 5935118 Pronto -> Exec
+118 : Processo 5935118 Exec -> Pronto por tempo
+119 : Processo 3806 Pronto -> Exec
+119 : Processo 3806 Exec -> I/O
+120 : Processo 5935118 Pronto -> Exec
+121 : Processo 5935118 Exec -> Pronto por tempo
+122 : Processo 5935118 Pronto -> Exec
+123 : Processo 5935118 Exec -> Pronto por tempo
+124 : Processo 5935118 Pronto -> Exec
+125 : Processo 5935118 Exec -> Pronto por tempo
+126 : Processo 5935118 Pronto -> Exec
+127 : Processo 5935118 Exec -> Pronto por tempo
+128 : Processo 5935118 Pronto -> Exec
+129 : Processo 5935118 Exec -> Pronto por tempo
+130 : Processo 5935118 Pronto -> Exec
+131 : Processo 5935118 Exec -> Pronto por tempo
+132 : Processo 3806 Pronto -> Exec
+132 : Processo 3806 Exec -> I/O
+133 : Processo 5935118 Pronto -> Exec
+134 : Processo 5935118 Exec -> Pronto por tempo
+135 : Processo 5935118 Pronto -> Exec
+136 : Processo 5935118 Exec -> Pronto por tempo
+137 : Processo 5935118 Pronto -> Exec
+138 : Processo 5935118 Exec -> Pronto por tempo
+139 : Processo 5935118 Pronto -> Exec
+140 : Processo 5935118 Exec -> Pronto por tempo
+141 : Processo 5935118 Pronto -> Exec
+142 : Processo 5935118 Exec -> Pronto por tempo
+143 : Processo 5935118 Pronto -> Exec
+144 : Processo 5935118 Exec -> Pronto por tempo
+145 : Processo 3806 Pronto -> Exec
+145 : Processo 3806 Exec -> I/O
+146 : Processo 5935118 Pronto -> Exec
+147 : Processo 5935118 Exec -> Pronto por tempo
+148 : Processo 5935118 Pronto -> Exec
+149 : Processo 5935118 Exec -> Pronto por tempo
+150 : Processo 5935118 Pronto -> Exec
+151 : Processo 5935118 Exec -> Pronto por tempo
+152 : Processo 5935118 Pronto -> Exec
+153 : Processo 5935118 Exec -> Pronto por tempo
+154 : Processo 5935118 Pronto -> Exec
+155 : Processo 5935118 Exec -> Pronto por tempo
+156 : Processo 5935118 Pronto -> Exec
+157 : Processo 5935118 Exec -> Pronto por tempo
+158 : Processo 3806 Pronto -> Exec
+158 : Processo 3806 Exec -> I/O
+159 : Processo 5935118 Pronto -> Exec
+160 : Processo 5935118 Exec -> Pronto por tempo
+161 : Processo 5935118 Pronto -> Exec
+162 : Processo 5935118 Exec -> Pronto por tempo
+163 : Processo 5935118 Pronto -> Exec
+164 : Processo 5935118 Exec -> Pronto por tempo
+165 : Processo 5935118 Pronto -> Exec
+166 : Processo 5935118 Exec -> Pronto por tempo
+167 : Processo 5935118 Pronto -> Exec
+168 : Processo 5935118 Exec -> Pronto por tempo
+169 : Processo 5935118 Pronto -> Exec
+170 : Processo 5935118 Exec -> Pronto por tempo
+171 : Processo 3806 Pronto -> Exec
+171 : Processo 3806 Exec -> I/O
+172 : Processo 5935118 Pronto -> Exec
+173 : Processo 5935118 Exec -> Pronto por tempo
+174 : Processo 5935118 Pronto -> Exec
+175 : Processo 5935118 Exec -> Pronto por tempo
+176 : Processo 5935118 Pronto -> Exec
+177 : Processo 5935118 Exec -> Pronto por tempo
+178 : Processo 5935118 Pronto -> Exec
+179 : Processo 5935118 Exec -> Pronto por tempo
+180 : Processo 5935118 Pronto -> Exec
+181 : Processo 5935118 Exec -> Pronto por tempo
+182 : Processo 5935118 Pronto -> Exec
+183 : Processo 5935118 Exec -> Pronto por tempo
+184 : Processo 3806 Pronto -> Exec
+184 : Processo 3806 Exec -> I/O
+185 : Processo 5935118 Pronto -> Exec
+186 : Processo 5935118 Exec -> Pronto por tempo
+187 : Processo 5935118 Pronto -> Exec
+188 : Processo 5935118 Exec -> Pronto por tempo
+189 : Processo 5935118 Pronto -> Exec
+190 : Processo 5935118 Exec -> Pronto por tempo
+191 : Processo 5935118 Pronto -> Exec
+192 : Processo 5935118 Exec -> Pronto por tempo
+193 : Processo 5935118 Pronto -> Exec
+194 : Processo 5935118 Exec -> Pronto por tempo
+195 : Processo 5935118 Pronto -> Exec
+196 : Processo 5935118 Exec -> Pronto por tempo
+197 : Processo 3806 Pronto -> Exec
+197 : Processo 3806 Exec -> I/O
+198 : Processo 5935118 Pronto -> Exec
+199 : Processo 5935118 Exec -> Pronto por tempo
+200 : Processo 5935118 Pronto -> Exec
+201 : Processo 5935118 Exec -> Pronto por tempo
+202 : Processo 5935118 Pronto -> Exec
+203 : Processo 5935118 Exec -> Pronto por tempo
+204 : Processo 5935118 Pronto -> Exec
+205 : Processo 5935118 Exec -> Pronto por tempo
+206 : Processo 5935118 Pronto -> Exec
+207 : Processo 5935118 Exec -> Pronto por tempo
+208 : Processo 5935118 Pronto -> Exec
+209 : Processo 5935118 Exec -> Pronto por tempo
+210 : Processo 3806 Pronto -> Exec
+210 : Processo 3806 Exec -> I/O
+211 : Processo 5935118 Pronto -> Exec
+212 : Processo 5935118 Exec -> Pronto por tempo
+213 : Processo 5935118 Pronto -> Exec
+214 : Processo 5935118 Exec -> Pronto por tempo
+215 : Processo 5935118 Pronto -> Exec

@@ -1,0 +1,611 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+469 : Processo 3308901 alocacao de blocos no pagefile
+469 : Processo 3308901 HwPF - Executável0
+469 : Processo 3308901 HwPF - Executável1
+469 : Processo 3308901 HwPF - Executável2
+469 : Processo 3308901 HwPF - Executável3
+469 : Processo 3308901 HwPF - Executável4
+469 : Processo 3308901 criado
+470 : Processo 3308901 Pronto -> Exec
+471 : Processo 3308901 Exec -> Pronto por tempo
+472 : Processo 3308901 Pronto -> Exec
+473 : Processo 3308901 Exec -> Pronto por tempo
+474 : Processo 3308901 Pronto -> Exec
+475 : Processo 3308901 Exec -> Pronto por tempo
+476 : Processo 3308901 Pronto -> Exec
+477 : Processo 3308901 Exec -> Pronto por tempo
+478 : Processo 3308901 Pronto -> Exec
+479 : Processo 3308901 Exec -> Pronto por tempo
+480 : Processo 3308901 Pronto -> Exec
+481 : Processo 3308901 Exec -> Pronto por tempo
+482 : Processo 3308901 Pronto -> Exec
+483 : Processo 3308901 Exec -> Pronto por tempo
+484 : Processo 3308901 Pronto -> Exec
+485 : Processo 3308901 Exec -> Pronto por tempo
+486 : Processo 3308901 Pronto -> Exec
+487 : Processo 3308901 Exec -> Pronto por tempo
+488 : Processo 3308901 Pronto -> Exec
+489 : Processo 3308901 Exec -> Pronto por tempo
+490 : Processo 3308901 Pronto -> Exec
+490 : Processo 3308901 eliminado
+490 : Tempo de UCP:11 Tempo decorrido:21
+490 : Processo 3308901 liberando pagefile reservado
+501 : Processo 3340613 alocacao de blocos no pagefile
+501 : Processo 3340613 HwPF - Executável0
+501 : Processo 3340613 HwPF - Executável1
+501 : Processo 3340613 HwPF - Executável2
+501 : Processo 3340613 HwPF - Executável3
+501 : Processo 3340613 HwPF - Executável4
+501 : Processo 3340613 criado
+502 : Processo 3340613 Pronto -> Exec
+503 : Processo 3340613 Exec -> Pronto por tempo
+504 : Processo 3340613 Pronto -> Exec
+505 : Processo 3340613 Exec -> Pronto por tempo
+506 : Processo 3340613 Pronto -> Exec
+507 : Processo 3340613 Exec -> Pronto por tempo
+508 : Processo 3340613 Pronto -> Exec
+509 : Processo 3340613 Exec -> Pronto por tempo
+510 : Processo 3340613 Pronto -> Exec
+511 : Processo 3340613 Exec -> Pronto por tempo
+512 : Processo 3340613 Pronto -> Exec
+513 : Processo 3340613 Exec -> Pronto por tempo
+514 : Processo 3340613 Pronto -> Exec
+515 : Processo 3340613 Exec -> Pronto por tempo
+516 : Processo 3340613 Pronto -> Exec
+517 : Processo 3340613 Exec -> Pronto por tempo
+518 : Processo 3340613 Pronto -> Exec
+519 : Processo 3340613 Exec -> Pronto por tempo
+520 : Processo 3340613 Pronto -> Exec
+521 : Processo 3340613 Exec -> Pronto por tempo
+522 : Processo 3340613 Pronto -> Exec
+523 : Processo 3340613 Exec -> Pronto por tempo
+524 : Processo 3340613 Pronto -> Exec
+525 : Processo 3340613 Exec -> Pronto por tempo
+526 : Processo 3340613 Pronto -> Exec
+527 : Processo 3340613 Exec -> Pronto por tempo
+528 : Processo 3340613 Pronto -> Exec
+529 : Processo 3340613 Exec -> Pronto por tempo
+530 : Processo 3340613 Pronto -> Exec
+531 : Processo 3340613 Exec -> Pronto por tempo
+532 : Processo 3340613 Pronto -> Exec
+533 : Processo 3340613 Exec -> Pronto por tempo
+534 : Processo 3340613 Pronto -> Exec
+535 : Processo 3340613 Exec -> Pronto por tempo
+536 : Processo 3340613 Pronto -> Exec
+537 : Processo 3340613 Exec -> Pronto por tempo
+538 : Processo 3340613 Pronto -> Exec
+539 : Processo 3340613 Exec -> Pronto por tempo
+540 : Processo 3340613 Pronto -> Exec
+541 : Processo 3340613 Exec -> Pronto por tempo
+542 : Processo 3340613 Pronto -> Exec
+543 : Processo 3340613 Exec -> Pronto por tempo
+544 : Processo 3340613 Pronto -> Exec
+545 : Processo 3340613 Exec -> Pronto por tempo
+546 : Processo 3340613 Pronto -> Exec
+547 : Processo 3340613 Exec -> Pronto por tempo
+548 : Processo 3340613 Pronto -> Exec
+549 : Processo 3340613 Exec -> Pronto por tempo
+550 : Processo 3340613 Pronto -> Exec
+551 : Processo 3340613 Exec -> Pronto por tempo
+552 : Processo 3340613 Pronto -> Exec
+553 : Processo 3340613 Exec -> Pronto por tempo
+554 : Processo 3340613 Pronto -> Exec
+555 : Processo 3340613 Exec -> Pronto por tempo
+556 : Processo 3340613 Pronto -> Exec
+557 : Processo 3340613 Exec -> Pronto por tempo
+558 : Processo 3340613 Pronto -> Exec
+559 : Processo 3340613 Exec -> Pronto por tempo
+560 : Processo 3340613 Pronto -> Exec
+561 : Processo 3340613 Exec -> Pronto por tempo
+562 : Processo 3340613 Pronto -> Exec
+563 : Processo 3340613 Exec -> Pronto por tempo
+564 : Processo 3340613 Pronto -> Exec
+565 : Processo 3340613 Exec -> Pronto por tempo
+566 : Processo 3340613 Pronto -> Exec
+567 : Processo 3340613 Exec -> Pronto por tempo
+568 : Processo 3340613 Pronto -> Exec
+569 : Processo 3340613 Exec -> Pronto por tempo
+570 : Processo 3340613 Pronto -> Exec
+571 : Processo 3340613 Exec -> Pronto por tempo
+572 : Processo 3340613 Pronto -> Exec
+573 : Processo 3340613 Exec -> Pronto por tempo
+574 : Processo 3340613 Pronto -> Exec
+575 : Processo 3340613 Exec -> Pronto por tempo
+576 : Processo 3340613 Pronto -> Exec
+577 : Processo 3340613 Exec -> Pronto por tempo
+578 : Processo 3340613 Pronto -> Exec
+579 : Processo 3340613 Exec -> Pronto por tempo
+580 : Processo 3340613 Pronto -> Exec
+581 : Processo 3340613 Exec -> Pronto por tempo
+582 : Processo 3340613 Pronto -> Exec
+583 : Processo 3340613 Exec -> Pronto por tempo
+584 : Processo 3340613 Pronto -> Exec
+585 : Processo 3340613 Exec -> Pronto por tempo
+586 : Processo 3340613 Pronto -> Exec
+587 : Processo 3340613 Exec -> Pronto por tempo
+588 : Processo 3340613 Pronto -> Exec
+589 : Processo 3340613 Exec -> Pronto por tempo
+590 : Processo 3340613 Pronto -> Exec
+591 : Processo 3340613 Exec -> Pronto por tempo
+592 : Processo 3340613 Pronto -> Exec
+593 : Processo 3340613 Exec -> Pronto por tempo
+594 : Processo 3340613 Pronto -> Exec
+595 : Processo 3340613 Exec -> Pronto por tempo
+596 : Processo 3340613 Pronto -> Exec
+597 : Processo 3340613 Exec -> Pronto por tempo
+598 : Processo 3340613 Pronto -> Exec
+599 : Processo 3340613 Exec -> Pronto por tempo
+600 : Processo 3340613 Pronto -> Exec
+601 : Processo 3340613 Exec -> Pronto por tempo
+602 : Processo 3340613 Pronto -> Exec
+603 : Processo 3340613 Exec -> Pronto por tempo
+604 : Processo 3340613 Pronto -> Exec
+605 : Processo 3340613 Exec -> Pronto por tempo
+606 : Processo 3340613 Pronto -> Exec
+607 : Processo 3340613 Exec -> Pronto por tempo
+608 : Processo 3340613 Pronto -> Exec
+609 : Processo 3340613 Exec -> Pronto por tempo
+610 : Processo 3340613 Pronto -> Exec
+611 : Processo 3340613 Exec -> Pronto por tempo
+612 : Processo 3340613 Pronto -> Exec
+613 : Processo 3340613 Exec -> Pronto por tempo
+614 : Processo 3340613 Pronto -> Exec
+615 : Processo 3340613 Exec -> Pronto por tempo
+616 : Processo 3340613 Pronto -> Exec
+617 : Processo 3340613 Exec -> Pronto por tempo
+618 : Processo 3340613 Pronto -> Exec
+619 : Processo 3340613 Exec -> Pronto por tempo
+620 : Processo 3340613 Pronto -> Exec
+621 : Processo 3340613 Exec -> Pronto por tempo
+622 : Processo 3340613 Pronto -> Exec
+623 : Processo 3340613 Exec -> Pronto por tempo
+624 : Processo 3340613 Pronto -> Exec
+625 : Processo 3340613 Exec -> Pronto por tempo
+626 : Processo 3340613 Pronto -> Exec
+627 : Processo 3340613 Exec -> Pronto por tempo
+628 : Processo 3340613 Pronto -> Exec
+629 : Processo 3340613 Exec -> Pronto por tempo
+630 : Processo 3340613 Pronto -> Exec
+631 : Processo 3340613 Exec -> Pronto por tempo
+632 : Processo 3340613 Pronto -> Exec
+633 : Processo 3340613 Exec -> Pronto por tempo
+634 : Processo 3340613 Pronto -> Exec
+635 : Processo 3340613 Exec -> Pronto por tempo
+636 : Processo 3340613 Pronto -> Exec
+637 : Processo 3340613 Exec -> Pronto por tempo
+638 : Processo 3340613 Pronto -> Exec
+639 : Processo 3340613 Exec -> Pronto por tempo
+640 : Processo 3340613 Pronto -> Exec
+641 : Processo 3340613 Exec -> Pronto por tempo
+642 : Processo 3340613 Pronto -> Exec
+643 : Processo 3340613 Exec -> Pronto por tempo
+644 : Processo 3340613 Pronto -> Exec
+645 : Processo 3340613 Exec -> Pronto por tempo
+646 : Processo 3340613 Pronto -> Exec
+647 : Processo 3340613 Exec -> Pronto por tempo
+648 : Processo 3340613 Pronto -> Exec
+649 : Processo 3340613 Exec -> Pronto por tempo
+650 : Processo 3340613 Pronto -> Exec
+651 : Processo 3340613 Exec -> Pronto por tempo
+652 : Processo 3340613 Pronto -> Exec
+653 : Processo 3340613 Exec -> Pronto por tempo
+654 : Processo 3340613 Pronto -> Exec
+655 : Processo 3340613 Exec -> Pronto por tempo
+656 : Processo 3340613 Pronto -> Exec
+657 : Processo 3340613 Exec -> Pronto por tempo
+658 : Processo 3340613 Pronto -> Exec
+659 : Processo 3340613 Exec -> Pronto por tempo
+660 : Processo 3340613 Pronto -> Exec
+661 : Processo 3340613 Exec -> Pronto por tempo
+662 : Processo 3340613 Pronto -> Exec
+663 : Processo 3340613 Exec -> Pronto por tempo
+664 : Processo 3340613 Pronto -> Exec
+665 : Processo 3340613 Exec -> Pronto por tempo
+666 : Processo 3340613 Pronto -> Exec
+667 : Processo 3340613 Exec -> Pronto por tempo
+668 : Processo 3340613 Pronto -> Exec
+669 : Processo 3340613 Exec -> Pronto por tempo
+670 : Processo 3340613 Pronto -> Exec
+671 : Processo 3340613 Exec -> Pronto por tempo
+672 : Processo 3340613 Pronto -> Exec
+673 : Processo 3340613 Exec -> Pronto por tempo
+674 : Processo 3340613 Pronto -> Exec
+675 : Processo 3340613 Exec -> Pronto por tempo
+676 : Processo 3340613 Pronto -> Exec
+677 : Processo 3340613 Exec -> Pronto por tempo
+678 : Processo 3340613 Pronto -> Exec
+679 : Processo 3340613 Exec -> Pronto por tempo
+680 : Processo 3340613 Pronto -> Exec
+681 : Processo 3340613 Exec -> Pronto por tempo
+682 : Processo 3340613 Pronto -> Exec
+683 : Processo 3340613 Exec -> Pronto por tempo
+684 : Processo 3340613 Pronto -> Exec
+685 : Processo 3340613 Exec -> Pronto por tempo
+686 : Processo 3340613 Pronto -> Exec
+687 : Processo 3340613 Exec -> Pronto por tempo
+688 : Processo 3340613 Pronto -> Exec
+689 : Processo 3340613 Exec -> Pronto por tempo
+690 : Processo 3340613 Pronto -> Exec
+691 : Processo 3340613 Exec -> Pronto por tempo
+692 : Processo 3340613 Pronto -> Exec
+693 : Processo 3340613 Exec -> Pronto por tempo
+694 : Processo 3340613 Pronto -> Exec
+695 : Processo 3340613 Exec -> Pronto por tempo
+696 : Processo 3340613 Pronto -> Exec
+697 : Processo 3340613 Exec -> Pronto por tempo
+698 : Processo 3340613 Pronto -> Exec
+699 : Processo 3340613 Exec -> Pronto por tempo
+700 : Processo 3340613 Pronto -> Exec
+701 : Processo 3340613 Exec -> Pronto por tempo
+702 : Processo 3340613 Pronto -> Exec
+703 : Processo 3340613 Exec -> Pronto por tempo
+704 : Processo 3340613 Pronto -> Exec
+705 : Processo 3340613 Exec -> Pronto por tempo
+706 : Processo 3340613 Pronto -> Exec
+707 : Processo 3340613 Exec -> Pronto por tempo
+708 : Processo 3340613 Pronto -> Exec
+709 : Processo 3340613 Exec -> Pronto por tempo
+710 : Processo 3340613 Pronto -> Exec
+711 : Processo 3340613 Exec -> Pronto por tempo
+712 : Processo 3340613 Pronto -> Exec
+713 : Processo 3340613 Exec -> Pronto por tempo
+714 : Processo 3340613 Pronto -> Exec
+715 : Processo 3340613 Exec -> Pronto por tempo
+716 : Processo 3340613 Pronto -> Exec
+717 : Processo 3340613 Exec -> Pronto por tempo
+718 : Processo 3340613 Pronto -> Exec
+719 : Processo 3340613 Exec -> Pronto por tempo
+720 : Processo 3340613 Pronto -> Exec
+721 : Processo 3340613 Exec -> Pronto por tempo
+722 : Processo 3340613 Pronto -> Exec
+723 : Processo 3340613 Exec -> Pronto por tempo
+724 : Processo 3340613 Pronto -> Exec
+725 : Processo 3340613 Exec -> Pronto por tempo
+726 : Processo 3340613 Pronto -> Exec
+727 : Processo 3340613 Exec -> Pronto por tempo
+728 : Processo 3340613 Pronto -> Exec
+729 : Processo 3340613 Exec -> Pronto por tempo
+730 : Processo 3340613 Pronto -> Exec
+731 : Processo 3340613 Exec -> Pronto por tempo
+732 : Processo 3340613 Pronto -> Exec
+733 : Processo 3340613 Exec -> Pronto por tempo
+734 : Processo 3340613 Pronto -> Exec
+735 : Processo 3340613 Exec -> Pronto por tempo
+736 : Processo 3340613 Pronto -> Exec
+737 : Processo 3340613 Exec -> Pronto por tempo
+738 : Processo 3340613 Pronto -> Exec
+739 : Processo 3340613 Exec -> Pronto por tempo
+740 : Processo 3340613 Pronto -> Exec
+741 : Processo 3340613 Exec -> Pronto por tempo
+742 : Processo 3340613 Pronto -> Exec
+743 : Processo 3340613 Exec -> Pronto por tempo
+744 : Processo 3340613 Pronto -> Exec
+745 : Processo 3340613 Exec -> Pronto por tempo
+746 : Processo 3340613 Pronto -> Exec
+747 : Processo 3340613 Exec -> Pronto por tempo
+748 : Processo 3340613 Pronto -> Exec
+749 : Processo 3340613 Exec -> Pronto por tempo
+750 : Processo 3340613 Pronto -> Exec
+751 : Processo 3340613 Exec -> Pronto por tempo
+752 : Processo 3340613 Pronto -> Exec
+753 : Processo 3340613 Exec -> Pronto por tempo
+754 : Processo 3340613 Pronto -> Exec
+755 : Processo 3340613 Exec -> Pronto por tempo
+756 : Processo 3340613 Pronto -> Exec
+757 : Processo 3340613 Exec -> Pronto por tempo
+758 : Processo 3340613 Pronto -> Exec
+759 : Processo 3340613 Exec -> Pronto por tempo
+760 : Processo 3340613 Pronto -> Exec
+761 : Processo 3340613 Exec -> Pronto por tempo
+762 : Processo 3340613 Pronto -> Exec
+763 : Processo 3340613 Exec -> Pronto por tempo
+764 : Processo 3340613 Pronto -> Exec
+765 : Processo 3340613 Exec -> Pronto por tempo
+766 : Processo 3340613 Pronto -> Exec
+767 : Processo 3340613 Exec -> Pronto por tempo
+768 : Processo 3340613 Pronto -> Exec
+769 : Processo 3340613 Exec -> Pronto por tempo
+770 : Processo 3340613 Pronto -> Exec
+771 : Processo 3340613 Exec -> Pronto por tempo
+772 : Processo 3340613 Pronto -> Exec
+773 : Processo 3340613 Exec -> Pronto por tempo
+774 : Processo 3340613 Pronto -> Exec
+775 : Processo 3340613 Exec -> Pronto por tempo
+776 : Processo 3340613 Pronto -> Exec
+777 : Processo 3340613 Exec -> Pronto por tempo
+778 : Processo 3340613 Pronto -> Exec
+779 : Processo 3340613 Exec -> Pronto por tempo
+780 : Processo 3340613 Pronto -> Exec
+781 : Processo 3340613 Exec -> Pronto por tempo
+782 : Processo 3340613 Pronto -> Exec
+783 : Processo 3340613 Exec -> Pronto por tempo
+784 : Processo 3340613 Pronto -> Exec
+785 : Processo 3340613 Exec -> Pronto por tempo
+786 : Processo 3340613 Pronto -> Exec
+787 : Processo 3340613 Exec -> Pronto por tempo
+788 : Processo 3340613 Pronto -> Exec
+789 : Processo 3340613 Exec -> Pronto por tempo
+790 : Processo 3340613 Pronto -> Exec
+791 : Processo 3340613 Exec -> Pronto por tempo
+792 : Processo 3340613 Pronto -> Exec
+793 : Processo 3340613 Exec -> Pronto por tempo
+794 : Processo 3340613 Pronto -> Exec
+795 : Processo 3340613 Exec -> Pronto por tempo
+796 : Processo 3340613 Pronto -> Exec
+797 : Processo 3340613 Exec -> Pronto por tempo
+798 : Processo 3340613 Pronto -> Exec
+799 : Processo 3340613 Exec -> Pronto por tempo
+800 : Processo 3340613 Pronto -> Exec
+801 : Processo 3340613 Exec -> Pronto por tempo
+802 : Processo 3340613 Pronto -> Exec
+803 : Processo 3340613 Exec -> Pronto por tempo
+804 : Processo 3340613 Pronto -> Exec
+805 : Processo 3340613 Exec -> Pronto por tempo
+806 : Processo 3340613 Pronto -> Exec
+807 : Processo 3340613 Exec -> Pronto por tempo
+808 : Processo 3340613 Pronto -> Exec
+809 : Processo 3340613 Exec -> Pronto por tempo
+810 : Processo 3340613 Pronto -> Exec
+811 : Processo 3340613 Exec -> Pronto por tempo
+812 : Processo 3340613 Pronto -> Exec
+813 : Processo 3340613 Exec -> Pronto por tempo
+814 : Processo 3340613 Pronto -> Exec
+815 : Processo 3340613 Exec -> Pronto por tempo
+816 : Processo 3340613 Pronto -> Exec
+817 : Processo 3340613 Exec -> Pronto por tempo
+818 : Processo 3340613 Pronto -> Exec
+819 : Processo 3340613 Exec -> Pronto por tempo
+820 : Processo 3340613 Pronto -> Exec
+821 : Processo 3340613 Exec -> Pronto por tempo
+822 : Processo 3340613 Pronto -> Exec
+823 : Processo 3340613 Exec -> Pronto por tempo
+824 : Processo 3340613 Pronto -> Exec
+825 : Processo 3340613 Exec -> Pronto por tempo
+826 : Processo 3340613 Pronto -> Exec
+827 : Processo 3340613 Exec -> Pronto por tempo
+828 : Processo 3340613 Pronto -> Exec
+829 : Processo 3340613 Exec -> Pronto por tempo
+830 : Processo 3340613 Pronto -> Exec
+831 : Processo 3340613 Exec -> Pronto por tempo
+832 : Processo 3340613 Pronto -> Exec
+833 : Processo 3340613 Exec -> Pronto por tempo
+834 : Processo 3340613 Pronto -> Exec
+835 : Processo 3340613 Exec -> Pronto por tempo
+836 : Processo 3340613 Pronto -> Exec
+837 : Processo 3340613 Exec -> Pronto por tempo
+838 : Processo 3340613 Pronto -> Exec
+839 : Processo 3340613 Exec -> Pronto por tempo
+840 : Processo 3340613 Pronto -> Exec
+841 : Processo 3340613 Exec -> Pronto por tempo
+842 : Processo 3340613 Pronto -> Exec
+843 : Processo 3340613 Exec -> Pronto por tempo
+844 : Processo 3340613 Pronto -> Exec
+845 : Processo 3340613 Exec -> Pronto por tempo
+846 : Processo 3340613 Pronto -> Exec
+847 : Processo 3340613 Exec -> Pronto por tempo
+848 : Processo 3340613 Pronto -> Exec
+849 : Processo 3340613 Exec -> Pronto por tempo
+850 : Processo 3340613 Pronto -> Exec
+851 : Processo 3340613 Exec -> Pronto por tempo
+852 : Processo 3340613 Pronto -> Exec
+853 : Processo 3340613 Exec -> Pronto por tempo
+854 : Processo 3340613 Pronto -> Exec
+855 : Processo 3340613 Exec -> Pronto por tempo
+856 : Processo 3340613 Pronto -> Exec
+857 : Processo 3340613 Exec -> Pronto por tempo
+858 : Processo 3340613 Pronto -> Exec
+859 : Processo 3340613 Exec -> Pronto por tempo
+860 : Processo 3340613 Pronto -> Exec
+861 : Processo 3340613 Exec -> Pronto por tempo
+862 : Processo 3340613 Pronto -> Exec
+863 : Processo 3340613 Exec -> Pronto por tempo
+864 : Processo 3340613 Pronto -> Exec
+865 : Processo 3340613 Exec -> Pronto por tempo
+866 : Processo 3340613 Pronto -> Exec
+867 : Processo 3340613 Exec -> Pronto por tempo
+868 : Processo 3340613 Pronto -> Exec
+869 : Processo 3340613 Exec -> Pronto por tempo
+870 : Processo 3340613 Pronto -> Exec
+871 : Processo 3340613 Exec -> Pronto por tempo
+872 : Processo 3340613 Pronto -> Exec
+873 : Processo 3340613 Exec -> Pronto por tempo
+874 : Processo 3340613 Pronto -> Exec
+875 : Processo 3340613 Exec -> Pronto por tempo
+876 : Processo 3340613 Pronto -> Exec
+877 : Processo 3340613 Exec -> Pronto por tempo
+878 : Processo 3340613 Pronto -> Exec
+879 : Processo 3340613 Exec -> Pronto por tempo
+880 : Processo 3340613 Pronto -> Exec
+881 : Processo 3340613 Exec -> Pronto por tempo
+882 : Processo 3340613 Pronto -> Exec
+883 : Processo 3340613 Exec -> Pronto por tempo
+884 : Processo 3340613 Pronto -> Exec
+885 : Processo 3340613 Exec -> Pronto por tempo
+886 : Processo 3340613 Pronto -> Exec
+887 : Processo 3340613 Exec -> Pronto por tempo
+888 : Processo 3340613 Pronto -> Exec
+889 : Processo 3340613 Exec -> Pronto por tempo
+890 : Processo 3340613 Pronto -> Exec
+891 : Processo 3340613 Exec -> Pronto por tempo
+892 : Processo 3340613 Pronto -> Exec
+893 : Processo 3340613 Exec -> Pronto por tempo
+894 : Processo 3340613 Pronto -> Exec
+895 : Processo 3340613 Exec -> Pronto por tempo
+896 : Processo 3340613 Pronto -> Exec
+897 : Processo 3340613 Exec -> Pronto por tempo
+898 : Processo 3340613 Pronto -> Exec
+899 : Processo 3340613 Exec -> Pronto por tempo
+900 : Processo 3340613 Pronto -> Exec
+901 : Processo 3340613 Exec -> Pronto por tempo
+902 : Processo 3340613 Pronto -> Exec
+903 : Processo 3340613 Exec -> Pronto por tempo
+904 : Processo 3340613 Pronto -> Exec
+905 : Processo 3340613 Exec -> Pronto por tempo
+906 : Processo 3340613 Pronto -> Exec
+907 : Processo 3340613 Exec -> Pronto por tempo
+908 : Processo 3340613 Pronto -> Exec
+909 : Processo 3340613 Exec -> Pronto por tempo
+910 : Processo 3340613 Pronto -> Exec
+911 : Processo 3340613 Exec -> Pronto por tempo
+912 : Processo 3340613 Pronto -> Exec
+913 : Processo 3340613 Exec -> Pronto por tempo
+914 : Processo 3340613 Pronto -> Exec
+915 : Processo 3340613 Exec -> Pronto por tempo
+916 : Processo 3340613 Pronto -> Exec
+917 : Processo 3340613 Exec -> Pronto por tempo
+918 : Processo 3340613 Pronto -> Exec
+919 : Processo 3340613 Exec -> Pronto por tempo
+920 : Processo 3340613 Pronto -> Exec
+921 : Processo 3340613 Exec -> Pronto por tempo
+922 : Processo 3340613 Pronto -> Exec
+923 : Processo 3340613 Exec -> Pronto por tempo
+924 : Processo 3340613 Pronto -> Exec
+925 : Processo 3340613 Exec -> Pronto por tempo
+926 : Processo 3340613 Pronto -> Exec
+927 : Processo 3340613 Exec -> Pronto por tempo
+928 : Processo 3340613 Pronto -> Exec
+929 : Processo 3340613 Exec -> Pronto por tempo
+930 : Processo 3340613 Pronto -> Exec
+931 : Processo 3340613 Exec -> Pronto por tempo
+932 : Processo 3340613 Pronto -> Exec
+933 : Processo 3340613 Exec -> Pronto por tempo
+934 : Processo 3340613 Pronto -> Exec
+935 : Processo 3340613 Exec -> Pronto por tempo
+936 : Processo 3340613 Pronto -> Exec
+937 : Processo 3340613 Exec -> Pronto por tempo
+938 : Processo 3340613 Pronto -> Exec
+939 : Processo 3340613 Exec -> Pronto por tempo
+940 : Processo 3340613 Pronto -> Exec
+941 : Processo 3340613 Exec -> Pronto por tempo
+942 : Processo 3340613 Pronto -> Exec
+943 : Processo 3340613 Exec -> Pronto por tempo
+944 : Processo 3340613 Pronto -> Exec
+945 : Processo 3340613 Exec -> Pronto por tempo
+946 : Processo 3340613 Pronto -> Exec
+947 : Processo 3340613 Exec -> Pronto por tempo
+948 : Processo 3340613 Pronto -> Exec
+949 : Processo 3340613 Exec -> Pronto por tempo
+950 : Processo 3340613 Pronto -> Exec
+951 : Processo 3340613 Exec -> Pronto por tempo
+952 : Processo 3340613 Pronto -> Exec
+953 : Processo 3340613 Exec -> Pronto por tempo
+954 : Processo 3340613 Pronto -> Exec
+955 : Processo 3340613 Exec -> Pronto por tempo
+956 : Processo 3340613 Pronto -> Exec
+957 : Processo 3340613 Exec -> Pronto por tempo
+958 : Processo 3340613 Pronto -> Exec
+959 : Processo 3340613 Exec -> Pronto por tempo
+960 : Processo 3340613 Pronto -> Exec
+961 : Processo 3340613 Exec -> Pronto por tempo
+962 : Processo 3340613 Pronto -> Exec
+963 : Processo 3340613 Exec -> Pronto por tempo
+964 : Processo 3340613 Pronto -> Exec
+965 : Processo 3340613 Exec -> Pronto por tempo
+966 : Processo 3340613 Pronto -> Exec
+967 : Processo 3340613 Exec -> Pronto por tempo
+968 : Processo 3340613 Pronto -> Exec
+969 : Processo 3340613 Exec -> Pronto por tempo
+970 : Processo 3340613 Pronto -> Exec
+971 : Processo 3340613 Exec -> Pronto por tempo
+972 : Processo 3340613 Pronto -> Exec
+973 : Processo 3340613 Exec -> Pronto por tempo
+974 : Processo 3340613 Pronto -> Exec
+975 : Processo 3340613 Exec -> Pronto por tempo
+976 : Processo 3340613 Pronto -> Exec
+977 : Processo 3340613 Exec -> Pronto por tempo
+978 : Processo 3340613 Pronto -> Exec
+979 : Processo 3340613 Exec -> Pronto por tempo
+980 : Processo 3340613 Pronto -> Exec
+981 : Processo 3340613 Exec -> Pronto por tempo
+982 : Processo 3340613 Pronto -> Exec
+983 : Processo 3340613 Exec -> Pronto por tempo
+984 : Processo 3340613 Pronto -> Exec
+985 : Processo 3340613 Exec -> Pronto por tempo
+986 : Processo 3340613 Pronto -> Exec
+987 : Processo 3340613 Exec -> Pronto por tempo
+988 : Processo 3340613 Pronto -> Exec
+989 : Processo 3340613 Exec -> Pronto por tempo
+990 : Processo 3340613 Pronto -> Exec
+991 : Processo 3340613 Exec -> Pronto por tempo
+992 : Processo 3340613 Pronto -> Exec
+993 : Processo 3340613 Exec -> Pronto por tempo
+994 : Processo 3340613 Pronto -> Exec
+995 : Processo 3340613 Exec -> Pronto por tempo
+996 : Processo 3340613 Pronto -> Exec
+997 : Processo 3340613 Exec -> Pronto por tempo
+998 : Processo 3340613 Pronto -> Exec
+999 : Processo 3340613 Exec -> Pronto por tempo
+1000 : Processo 3340613 Pronto -> Exec
+1001 : Processo 3340613 Exec -> Pronto por tempo
+1002 : Processo 3340613 Pronto -> Exec
+1003 : Processo 3340613 Exec -> Pronto por tempo
+1004 : Processo 3340613 Pronto -> Exec
+1005 : Processo 3340613 Exec -> Pronto por tempo
+1006 : Processo 3340613 Pronto -> Exec
+1007 : Processo 3340613 Exec -> Pronto por tempo
+1008 : Processo 3340613 Pronto -> Exec
+1009 : Processo 3340613 Exec -> Pronto por tempo
+1010 : Processo 3340613 Pronto -> Exec
+1011 : Processo 3340613 Exec -> Pronto por tempo
+1012 : Processo 3340613 Pronto -> Exec
+1013 : Processo 3340613 Exec -> Pronto por tempo
+1014 : Processo 3340613 Pronto -> Exec
+1015 : Processo 3340613 Exec -> Pronto por tempo
+1016 : Processo 3340613 Pronto -> Exec
+1017 : Processo 3340613 Exec -> Pronto por tempo
+1018 : Processo 3340613 Pronto -> Exec
+1019 : Processo 3340613 Exec -> Pronto por tempo
+1020 : Processo 3340613 Pronto -> Exec
+1021 : Processo 3340613 Exec -> Pronto por tempo
+1022 : Processo 3340613 Pronto -> Exec
+1023 : Processo 3340613 Exec -> Pronto por tempo
+1024 : Processo 3340613 Pronto -> Exec
+1025 : Processo 3340613 Exec -> Pronto por tempo
+1026 : Processo 3340613 Pronto -> Exec
+1027 : Processo 3340613 Exec -> Pronto por tempo
+1028 : Processo 3340613 Pronto -> Exec
+1029 : Processo 3340613 Exec -> Pronto por tempo
+1030 : Processo 3340613 Pronto -> Exec
+1031 : Processo 3340613 Exec -> Pronto por tempo
+1032 : Processo 3340613 Pronto -> Exec
+1033 : Processo 3340613 Exec -> Pronto por tempo
+1034 : Processo 3340613 Pronto -> Exec
+1035 : Processo 3340613 Exec -> Pronto por tempo
+1036 : Processo 3340613 Pronto -> Exec
+1037 : Processo 3340613 Exec -> Pronto por tempo
+1038 : Processo 3340613 Pronto -> Exec
+1039 : Processo 3340613 Exec -> Pronto por tempo
+1040 : Processo 3340613 Pronto -> Exec
+1041 : Processo 3340613 Exec -> Pronto por tempo
+1042 : Processo 3340613 Pronto -> Exec
+1043 : Processo 3340613 Exec -> Pronto por tempo
+1044 : Processo 3340613 Pronto -> Exec
+1045 : Processo 3340613 Exec -> Pronto por tempo
+1046 : Processo 3340613 Pronto -> Exec
+1047 : Processo 3340613 Exec -> Pronto por tempo
+1048 : Processo 3340613 Pronto -> Exec
+1049 : Processo 3340613 Exec -> Pronto por tempo
+1050 : Processo 3340613 Pronto -> Exec
+1051 : Processo 3340613 Exec -> Pronto por tempo
+1052 : Processo 3340613 Pronto -> Exec
+1053 : Processo 3340613 Exec -> Pronto por tempo
+1054 : Processo 3340613 Pronto -> Exec
+1055 : Processo 3340613 Exec -> Pronto por tempo
+1056 : Processo 3340613 Pronto -> Exec
+1057 : Processo 3340613 Exec -> Pronto por tempo
+1058 : Processo 3340613 Pronto -> Exec
+1059 : Processo 3340613 Exec -> Pronto por tempo
+1060 : Processo 3340613 Pronto -> Exec
+1061 : Processo 3340613 Exec -> Pronto por tempo
+1062 : Processo 3340613 Pronto -> Exec
+1063 : Processo 3340613 Exec -> Pronto por tempo
+1064 : Processo 3340613 Pronto -> Exec
+1065 : Processo 3340613 Exec -> Pronto por tempo
+1066 : Processo 3340613 Pronto -> Exec
+1067 : Processo 3340613 Exec -> Pronto por tempo
+1068 : Processo 3340613 Pronto -> Exec
+1069 : Processo 3340613 Exec -> Pronto por tempo
+1070 : Processo 3340613 Pronto -> Exec
+1071 : Processo 3340613 Exec -> Pronto por tempo
+1072 : Processo 3340613 Pronto 

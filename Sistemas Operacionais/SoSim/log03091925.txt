@@ -1,0 +1,689 @@
+0 : Inicializando SOsim ...
+5 : SOsim pronto
+84 : Processo 2647226 alocacao de blocos no pagefile
+84 : Processo 2647226 HwPF - Executável0
+84 : Processo 2647226 HwPF - Executável1
+84 : Processo 2647226 HwPF - Executável2
+84 : Processo 2647226 HwPF - Executável3
+84 : Processo 2647226 HwPF - Executável4
+84 : Processo 2647226 criado
+85 : Processo 2647226 Pronto -> Exec
+86 : Processo 2647226 Exec -> Pronto por tempo
+87 : Processo 2647226 Pronto -> Exec
+87 : Processo 2649626 alocacao de blocos no pagefile
+87 : Processo 2649626 HwPF - Executável0
+87 : Processo 2649626 HwPF - Executável1
+87 : Processo 2649626 HwPF - Executável2
+87 : Processo 2649626 HwPF - Executável3
+87 : Processo 2649626 HwPF - Executável4
+87 : Processo 2649626 criado
+88 : Processo 2647226 Exec -> Pronto por tempo
+89 : Processo 2649626 Pronto -> Exec
+90 : Processo 2649626 Exec -> Pronto por tempo
+91 : Processo 2647226 Pronto -> Exec
+92 : Processo 2647226 Exec -> Pronto por tempo
+93 : Processo 2649626 Pronto -> Exec
+94 : Processo 2649626 Exec -> Pronto por tempo
+95 : Processo 2647226 Pronto -> Exec
+96 : Processo 2647226 Exec -> Pronto por tempo
+97 : Processo 2649626 Pronto -> Exec
+98 : Processo 2649626 Exec -> Pronto por tempo
+99 : Processo 2647226 Pronto -> Exec
+100 : Processo 2647226 Exec -> Pronto por tempo
+101 : Processo 2649626 Pronto -> Exec
+102 : Processo 2649626 Exec -> Pronto por tempo
+103 : Processo 2647226 Pronto -> Exec
+104 : Processo 2647226 Exec -> Pronto por tempo
+105 : Processo 2649626 Pronto -> Exec
+106 : Processo 2649626 Exec -> Pronto por tempo
+107 : Processo 2647226 Pronto -> Exec
+108 : Processo 2647226 Exec -> Pronto por tempo
+109 : Processo 2649626 Pronto -> Exec
+110 : Processo 2649626 Exec -> Pronto por tempo
+111 : Processo 2647226 Pronto -> Exec
+112 : Processo 2647226 Exec -> Pronto por tempo
+113 : Processo 2649626 Pronto -> Exec
+114 : Processo 2649626 Exec -> Pronto por tempo
+115 : Processo 2647226 Pronto -> Exec
+116 : Processo 2647226 Exec -> Pronto por tempo
+117 : Processo 2649626 Pronto -> Exec
+118 : Processo 2649626 Exec -> Pronto por tempo
+119 : Processo 2647226 Pronto -> Exec
+120 : Processo 2647226 Exec -> Pronto por tempo
+121 : Processo 2649626 Pronto -> Exec
+122 : Processo 2649626 Exec -> Pronto por tempo
+123 : Processo 2647226 Pronto -> Exec
+124 : Processo 2647226 Exec -> Pronto por tempo
+125 : Processo 2649626 Pronto -> Exec
+126 : Processo 2649626 Exec -> Pronto por tempo
+127 : Processo 2647226 Pronto -> Exec
+128 : Processo 2647226 Exec -> Pronto por tempo
+129 : Processo 2649626 Pronto -> Exec
+130 : Processo 2649626 Exec -> Pronto por tempo
+131 : Processo 2647226 Pronto -> Exec
+132 : Processo 2647226 Exec -> Pronto por tempo
+133 : Processo 2649626 Pronto -> Exec
+134 : Processo 2649626 Exec -> Pronto por tempo
+135 : Processo 2647226 Pronto -> Exec
+136 : Processo 2647226 Exec -> Pronto por tempo
+137 : Processo 2649626 Pronto -> Exec
+138 : Processo 2649626 Exec -> Pronto por tempo
+139 : Processo 2647226 Pronto -> Exec
+140 : Processo 2647226 Exec -> Pronto por tempo
+141 : Processo 2649626 Pronto -> Exec
+142 : Processo 2649626 Exec -> Pronto por tempo
+143 : Processo 2647226 Pronto -> Exec
+144 : Processo 2647226 Exec -> Pronto por tempo
+145 : Processo 2649626 Pronto -> Exec
+146 : Processo 2649626 Exec -> Pronto por tempo
+147 : Processo 2647226 Pronto -> Exec
+148 : Processo 2647226 Exec -> Pronto por tempo
+149 : Processo 2649626 Pronto -> Exec
+150 : Processo 2649626 Exec -> Pronto por tempo
+151 : Processo 2647226 Pronto -> Exec
+152 : Processo 2647226 Exec -> Pronto por tempo
+153 : Processo 2649626 Pronto -> Exec
+154 : Processo 2649626 Exec -> Pronto por tempo
+155 : Processo 2647226 Pronto -> Exec
+156 : Processo 2647226 Exec -> Pronto por tempo
+157 : Processo 2649626 Pronto -> Exec
+158 : Processo 2649626 Exec -> Pronto por tempo
+159 : Processo 2647226 Pronto -> Exec
+160 : Processo 2647226 Exec -> Pronto por tempo
+161 : Processo 2649626 Pronto -> Exec
+162 : Processo 2649626 Exec -> Pronto por tempo
+163 : Processo 2647226 Pronto -> Exec
+164 : Processo 2647226 Exec -> Pronto por tempo
+165 : Processo 2649626 Pronto -> Exec
+166 : Processo 2649626 Exec -> Pronto por tempo
+167 : Processo 2647226 Pronto -> Exec
+168 : Processo 2647226 Exec -> Pronto por tempo
+169 : Processo 2649626 Pronto -> Exec
+170 : Processo 2649626 Exec -> Pronto por tempo
+171 : Processo 2647226 Pronto -> Exec
+172 : Processo 2647226 Exec -> Pronto por tempo
+173 : Processo 2649626 Pronto -> Exec
+174 : Processo 2649626 Exec -> Pronto por tempo
+175 : Processo 2647226 Pronto -> Exec
+176 : Processo 2647226 Exec -> Pronto por tempo
+177 : Processo 2649626 Pronto -> Exec
+178 : Processo 2649626 Exec -> Pronto por tempo
+179 : Processo 2647226 Pronto -> Exec
+180 : Processo 2647226 Exec -> Pronto por tempo
+181 : Processo 2649626 Pronto -> Exec
+182 : Processo 2649626 Exec -> Pronto por tempo
+183 : Processo 2647226 Pronto -> Exec
+184 : Processo 2647226 Exec -> Pronto por tempo
+185 : Processo 2649626 Pronto -> Exec
+186 : Processo 2649626 Exec -> Pronto por tempo
+187 : Processo 2647226 Pronto -> Exec
+188 : Processo 2647226 Exec -> Pronto por tempo
+189 : Processo 2649626 Pronto -> Exec
+190 : Processo 2649626 Exec -> Pronto por tempo
+191 : Processo 2647226 Pronto -> Exec
+192 : Processo 2647226 Exec -> Pronto por tempo
+193 : Processo 2649626 Pronto -> Exec
+194 : Processo 2649626 Exec -> Pronto por tempo
+195 : Processo 2647226 Pronto -> Exec
+196 : Processo 2647226 Exec -> Pronto por tempo
+197 : Processo 2649626 Pronto -> Exec
+198 : Processo 2649626 Exec -> Pronto por tempo
+199 : Processo 2647226 Pronto -> Exec
+200 : Processo 2647226 Exec -> Pronto por tempo
+201 : Processo 2649626 Pronto -> Exec
+202 : Processo 2649626 Exec -> Pronto por tempo
+203 : Processo 2647226 Pronto -> Exec
+204 : Processo 2647226 Exec -> Pronto por tempo
+205 : Processo 2649626 Pronto -> Exec
+206 : Processo 2649626 Exec -> Pronto por tempo
+207 : Processo 2647226 Pronto -> Exec
+208 : Processo 2647226 Exec -> Pronto por tempo
+209 : Processo 2649626 Pronto -> Exec
+210 : Processo 2649626 Exec -> Pronto por tempo
+211 : Processo 2647226 Pronto -> Exec
+212 : Processo 2647226 Exec -> Pronto por tempo
+213 : Processo 2649626 Pronto -> Exec
+214 : Processo 2649626 Exec -> Pronto por tempo
+215 : Processo 2647226 Pronto -> Exec
+216 : Processo 2647226 Exec -> Pronto por tempo
+217 : Processo 2649626 Pronto -> Exec
+218 : Processo 2649626 Exec -> Pronto por tempo
+219 : Processo 2647226 Pronto -> Exec
+220 : Processo 2647226 Exec -> Pronto por tempo
+221 : Processo 2649626 Pronto -> Exec
+222 : Processo 2649626 Exec -> Pronto por tempo
+223 : Processo 2647226 Pronto -> Exec
+224 : Processo 2647226 Exec -> Pronto por tempo
+225 : Processo 2649626 Pronto -> Exec
+226 : Processo 2649626 Exec -> Pronto por tempo
+227 : Processo 2647226 Pronto -> Exec
+228 : Processo 2647226 Exec -> Pronto por tempo
+229 : Processo 2649626 Pronto -> Exec
+230 : Processo 2649626 Exec -> Pronto por tempo
+231 : Processo 2647226 Pronto -> Exec
+232 : Processo 2647226 Exec -> Pronto por tempo
+233 : Processo 2649626 Pronto -> Exec
+234 : Processo 2649626 Exec -> Pronto por tempo
+235 : Processo 2647226 Pronto -> Exec
+236 : Processo 2647226 Exec -> Pronto por tempo
+237 : Processo 2649626 Pronto -> Exec
+238 : Processo 2649626 Exec -> Pronto por tempo
+239 : Processo 2647226 Pronto -> Exec
+240 : Processo 2647226 Exec -> Pronto por tempo
+241 : Processo 2649626 Pronto -> Exec
+242 : Processo 2649626 Exec -> Pronto por tempo
+243 : Processo 2647226 Pronto -> Exec
+244 : Processo 2647226 Exec -> Pronto por tempo
+245 : Processo 2649626 Pronto -> Exec
+246 : Processo 2649626 Exec -> Pronto por tempo
+247 : Processo 2647226 Pronto -> Exec
+248 : Processo 2647226 Exec -> Pronto por tempo
+249 : Processo 2649626 Pronto -> Exec
+250 : Processo 2649626 Exec -> Pronto por tempo
+251 : Processo 2647226 Pronto -> Exec
+252 : Processo 2647226 Exec -> Pronto por tempo
+253 : Processo 2649626 Pronto -> Exec
+254 : Processo 2649626 Exec -> Pronto por tempo
+255 : Processo 2647226 Pronto -> Exec
+256 : Processo 2647226 Exec -> Pronto por tempo
+257 : Processo 2649626 Pronto -> Exec
+258 : Processo 2649626 Exec -> Pronto por tempo
+259 : Processo 2647226 Pronto -> Exec
+260 : Processo 2647226 Exec -> Pronto por tempo
+261 : Processo 2649626 Pronto -> Exec
+262 : Processo 2649626 Exec -> Pronto por tempo
+263 : Processo 2647226 Pronto -> Exec
+264 : Processo 2647226 Exec -> Pronto por tempo
+265 : Processo 2649626 Pronto -> Exec
+266 : Processo 2649626 Exec -> Pronto por tempo
+267 : Processo 2647226 Pronto -> Exec
+268 : Processo 2647226 Exec -> Pronto por tempo
+269 : Processo 2649626 Pronto -> Exec
+270 : Processo 2649626 Exec -> Pronto por tempo
+271 : Processo 2647226 Pronto -> Exec
+272 : Processo 2647226 Exec -> Pronto por tempo
+273 : Processo 2649626 Pronto -> Exec
+274 : Processo 2649626 Exec -> Pronto por tempo
+275 : Processo 2647226 Pronto -> Exec
+276 : Processo 2647226 Exec -> Pronto por tempo
+277 : Processo 2649626 Pronto -> Exec
+278 : Processo 2649626 Exec -> Pronto por tempo
+279 : Processo 2647226 Pronto -> Exec
+280 : Processo 2647226 Exec -> Pronto por tempo
+281 : Processo 2649626 Pronto -> Exec
+282 : Processo 2649626 Exec -> Pronto por tempo
+283 : Processo 2647226 Pronto -> Exec
+284 : Processo 2647226 Exec -> Pronto por tempo
+285 : Processo 2649626 Pronto -> Exec
+286 : Processo 2649626 Exec -> Pronto por tempo
+287 : Processo 2647226 Pronto -> Exec
+288 : Processo 2647226 Exec -> Pronto por tempo
+289 : Processo 2649626 Pronto -> Exec
+290 : Processo 2649626 Exec -> Pronto por tempo
+291 : Processo 2647226 Pronto -> Exec
+292 : Processo 2647226 Exec -> Pronto por tempo
+293 : Processo 2649626 Pronto -> Exec
+294 : Processo 2649626 Exec -> Pronto por tempo
+295 : Processo 2647226 Pronto -> Exec
+296 : Processo 2647226 Exec -> Pronto por tempo
+297 : Processo 2649626 Pronto -> Exec
+298 : Processo 2649626 Exec -> Pronto por tempo
+299 : Processo 2647226 Pronto -> Exec
+300 : Processo 2647226 Exec -> Pronto por tempo
+301 : Processo 2649626 Pronto -> Exec
+302 : Processo 2649626 Exec -> Pronto por tempo
+303 : Processo 2647226 Pronto -> Exec
+304 : Processo 2647226 Exec -> Pronto por tempo
+305 : Processo 2649626 Pronto -> Exec
+306 : Processo 2649626 Exec -> Pronto por tempo
+307 : Processo 2647226 Pronto -> Exec
+308 : Processo 2647226 Exec -> Pronto por tempo
+309 : Processo 2649626 Pronto -> Exec
+310 : Processo 2649626 Exec -> Pronto por tempo
+311 : Processo 2647226 Pronto -> Exec
+312 : Processo 2647226 Exec -> Pronto por tempo
+313 : Processo 2649626 Pronto -> Exec
+314 : Processo 2649626 Exec -> Pronto por tempo
+315 : Processo 2647226 Pronto -> Exec
+316 : Processo 2647226 Exec -> Pronto por tempo
+317 : Processo 2649626 Pronto -> Exec
+318 : Processo 2649626 Exec -> Pronto por tempo
+319 : Processo 2647226 Pronto -> Exec
+320 : Processo 2647226 Exec -> Pronto por tempo
+321 : Processo 2649626 Pronto -> Exec
+322 : Processo 2649626 Exec -> Pronto por tempo
+323 : Processo 2647226 Pronto -> Exec
+324 : Processo 2647226 Exec -> Pronto por tempo
+325 : Processo 2649626 Pronto -> Exec
+326 : Processo 2649626 Exec -> Pronto por tempo
+327 : Processo 2647226 Pronto -> Exec
+328 : Processo 2647226 Exec -> Pronto por tempo
+329 : Processo 2649626 Pronto -> Exec
+330 : Processo 2649626 Exec -> Pronto por tempo
+331 : Processo 2647226 Pronto -> Exec
+332 : Processo 2647226 Exec -> Pronto por tempo
+333 : Processo 2649626 Pronto -> Exec
+334 : Processo 2649626 Exec -> Pronto por tempo
+335 : Processo 2647226 Pronto -> Exec
+336 : Processo 2647226 Exec -> Pronto por tempo
+337 : Processo 2649626 Pronto -> Exec
+338 : Processo 2649626 Exec -> Pronto por tempo
+339 : Processo 2647226 Pronto -> Exec
+340 : Processo 2647226 Exec -> Pronto por tempo
+341 : Processo 2649626 Pronto -> Exec
+342 : Processo 2649626 Exec -> Pronto por tempo
+343 : Processo 2647226 Pronto -> Exec
+344 : Processo 2647226 Exec -> Pronto por tempo
+345 : Processo 2649626 Pronto -> Exec
+346 : Processo 2649626 Exec -> Pronto por tempo
+347 : Processo 2647226 Pronto -> Exec
+348 : Processo 2647226 Exec -> Pronto por tempo
+349 : Processo 2649626 Pronto -> Exec
+350 : Processo 2649626 Exec -> Pronto por tempo
+351 : Processo 2647226 Pronto -> Exec
+352 : Processo 2647226 Exec -> Pronto por tempo
+353 : Processo 2649626 Pronto -> Exec
+354 : Processo 2649626 Exec -> Pronto por tempo
+355 : Processo 2647226 Pronto -> Exec
+356 : Processo 2647226 Exec -> Pronto por tempo
+357 : Processo 2649626 Pronto -> Exec
+358 : Processo 2649626 Exec -> Pronto por tempo
+359 : Processo 2647226 Pronto -> Exec
+360 : Processo 2647226 Exec -> Pronto por tempo
+361 : Processo 2649626 Pronto -> Exec
+362 : Processo 2649626 Exec -> Pronto por tempo
+363 : Processo 2647226 Pronto -> Exec
+364 : Processo 2647226 Exec -> Pronto por tempo
+365 : Processo 2649626 Pronto -> Exec
+366 : Processo 2649626 Exec -> Pronto por tempo
+367 : Processo 2647226 Pronto -> Exec
+368 : Processo 2647226 Exec -> Pronto por tempo
+369 : Processo 2649626 Pronto -> Exec
+370 : Processo 2649626 Exec -> Pronto por tempo
+371 : Processo 2647226 Pronto -> Exec
+372 : Processo 2647226 Exec -> Pronto por tempo
+373 : Processo 2649626 Pronto -> Exec
+374 : Processo 2649626 Exec -> Pronto por tempo
+375 : Processo 2647226 Pronto -> Exec
+376 : Processo 2647226 Exec -> Pronto por tempo
+377 : Processo 2649626 Pronto -> Exec
+378 : Processo 2649626 Exec -> Pronto por tempo
+379 : Processo 2647226 Pronto -> Exec
+380 : Processo 2647226 Exec -> Pronto por tempo
+381 : Processo 2649626 Pronto -> Exec
+382 : Processo 2649626 Exec -> Pronto por tempo
+383 : Processo 2647226 Pronto -> Exec
+384 : Processo 2647226 Exec -> Pronto por tempo
+385 : Processo 2649626 Pronto -> Exec
+386 : Processo 2649626 Exec -> Pronto por tempo
+387 : Processo 2647226 Pronto -> Exec
+388 : Processo 2647226 Exec -> Pronto por tempo
+389 : Processo 2649626 Pronto -> Exec
+390 : Processo 2649626 Exec -> Pronto por tempo
+391 : Processo 2647226 Pronto -> Exec
+392 : Processo 2647226 Exec -> Pronto por tempo
+393 : Processo 2649626 Pronto -> Exec
+394 : Processo 2649626 Exec -> Pronto por tempo
+395 : Processo 2647226 Pronto -> Exec
+396 : Processo 2647226 Exec -> Pronto por tempo
+397 : Processo 2649626 Pronto -> Exec
+398 : Processo 2649626 Exec -> Pronto por tempo
+399 : Processo 2647226 Pronto -> Exec
+400 : Processo 2647226 Exec -> Pronto por tempo
+401 : Processo 2649626 Pronto -> Exec
+402 : Processo 2649626 Exec -> Pronto por tempo
+403 : Processo 2647226 Pronto -> Exec
+404 : Processo 2647226 Exec -> Pronto por tempo
+405 : Processo 2649626 Pronto -> Exec
+406 : Processo 2649626 Exec -> Pronto por tempo
+407 : Processo 2647226 Pronto -> Exec
+408 : Processo 2647226 Exec -> Pronto por tempo
+409 : Processo 2649626 Pronto -> Exec
+410 : Processo 2649626 Exec -> Pronto por tempo
+411 : Processo 2647226 Pronto -> Exec
+412 : Processo 2647226 Exec -> Pronto por tempo
+413 : Processo 2649626 Pronto -> Exec
+414 : Processo 2649626 Exec -> Pronto por tempo
+415 : Processo 2647226 Pronto -> Exec
+416 : Processo 2647226 Exec -> Pronto por tempo
+417 : Processo 2649626 Pronto -> Exec
+418 : Processo 2649626 Exec -> Pronto por tempo
+419 : Processo 2647226 Pronto -> Exec
+420 : Processo 2647226 Exec -> Pronto por tempo
+421 : Processo 2649626 Pronto -> Exec
+422 : Processo 2649626 Exec -> Pronto por tempo
+423 : Processo 2647226 Pronto -> Exec
+424 : Processo 2647226 Exec -> Pronto por tempo
+425 : Processo 2649626 Pronto -> Exec
+426 : Processo 2649626 Exec -> Pronto por tempo
+427 : Processo 2647226 Pronto -> Exec
+428 : Processo 2647226 Exec -> Pronto por tempo
+429 : Processo 2649626 Pronto -> Exec
+430 : Processo 2649626 Exec -> Pronto por tempo
+431 : Processo 2647226 Pronto -> Exec
+432 : Processo 2647226 Exec -> Pronto por tempo
+433 : Processo 2649626 Pronto -> Exec
+434 : Processo 2649626 Exec -> Pronto por tempo
+435 : Processo 2647226 Pronto -> Exec
+436 : Processo 2647226 Exec -> Pronto por tempo
+437 : Processo 2649626 Pronto -> Exec
+438 : Processo 2649626 Exec -> Pronto por tempo
+439 : Processo 2647226 Pronto -> Exec
+440 : Processo 2647226 Exec -> Pronto por tempo
+441 : Processo 2649626 Pronto -> Exec
+442 : Processo 2649626 Exec -> Pronto por tempo
+443 : Processo 2647226 Pronto -> Exec
+444 : Processo 2647226 Exec -> Pronto por tempo
+445 : Processo 2649626 Pronto -> Exec
+446 : Processo 2649626 Exec -> Pronto por tempo
+447 : Processo 2647226 Pronto -> Exec
+448 : Processo 2647226 Exec -> Pronto por tempo
+449 : Processo 2649626 Pronto -> Exec
+450 : Processo 2649626 Exec -> Pronto por tempo
+451 : Processo 2647226 Pronto -> Exec
+452 : Processo 2647226 Exec -> Pronto por tempo
+453 : Processo 2649626 Pronto -> Exec
+454 : Processo 2649626 Exec -> Pronto por tempo
+455 : Processo 2647226 Pronto -> Exec
+456 : Processo 2647226 Exec -> Pronto por tempo
+457 : Processo 2649626 Pronto -> Exec
+458 : Processo 2649626 Exec -> Pronto por tempo
+459 : Processo 2647226 Pronto -> Exec
+460 : Processo 2647226 Exec -> Pronto por tempo
+461 : Processo 2649626 Pronto -> Exec
+462 : Processo 2649626 Exec -> Pronto por tempo
+463 : Processo 2647226 Pronto -> Exec
+464 : Processo 2647226 Exec -> Pronto por tempo
+465 : Processo 2649626 Pronto -> Exec
+466 : Processo 2649626 Exec -> Pronto por tempo
+467 : Processo 2647226 Pronto -> Exec
+468 : Processo 2647226 Exec -> Pronto por tempo
+469 : Processo 2649626 Pronto -> Exec
+470 : Processo 2649626 Exec -> Pronto por tempo
+471 : Processo 2647226 Pronto -> Exec
+472 : Processo 2647226 Exec -> Pronto por tempo
+473 : Processo 2649626 Pronto -> Exec
+474 : Processo 2649626 Exec -> Pronto por tempo
+475 : Processo 2647226 Pronto -> Exec
+476 : Processo 2647226 Exec -> Pronto por tempo
+477 : Processo 2649626 Pronto -> Exec
+478 : Processo 2649626 Exec -> Pronto por tempo
+479 : Processo 2647226 Pronto -> Exec
+480 : Processo 2647226 Exec -> Pronto por tempo
+481 : Processo 2649626 Pronto -> Exec
+482 : Processo 2649626 Exec -> Pronto por tempo
+483 : Processo 2647226 Pronto -> Exec
+484 : Processo 2647226 Exec -> Pronto por tempo
+485 : Processo 2649626 Pronto -> Exec
+486 : Processo 2649626 Exec -> Pronto por tempo
+487 : Processo 2647226 Pronto -> Exec
+488 : Processo 2647226 Exec -> Pronto por tempo
+489 : Processo 2649626 Pronto -> Exec
+490 : Processo 2649626 Exec -> Pronto por tempo
+491 : Processo 2647226 Pronto -> Exec
+492 : Processo 2647226 Exec -> Pronto por tempo
+493 : Processo 2649626 Pronto -> Exec
+494 : Processo 2649626 Exec -> Pronto por tempo
+495 : Processo 2647226 Pronto -> Exec
+496 : Processo 2647226 Exec -> Pronto por tempo
+497 : Processo 2649626 Pronto -> Exec
+498 : Processo 2649626 Exec -> Pronto por tempo
+499 : Processo 2647226 Pronto -> Exec
+500 : Processo 2647226 Exec -> Pronto por tempo
+501 : Processo 2649626 Pronto -> Exec
+502 : Processo 2649626 Exec -> Pronto por tempo
+503 : Processo 2647226 Pronto -> Exec
+504 : Processo 2647226 Exec -> Pronto por tempo
+505 : Processo 2649626 Pronto -> Exec
+506 : Processo 2649626 Exec -> Pronto por tempo
+507 : Processo 2647226 Pronto -> Exec
+508 : Processo 2647226 Exec -> Pronto por tempo
+509 : Processo 2649626 Pronto -> Exec
+510 : Processo 2649626 Exec -> Pronto por tempo
+511 : Processo 2647226 Pronto -> Exec
+512 : Processo 2647226 Exec -> Pronto por tempo
+513 : Processo 2649626 Pronto -> Exec
+514 : Processo 2649626 Exec -> Pronto por tempo
+515 : Processo 2647226 Pronto -> Exec
+516 : Processo 2647226 Exec -> Pronto por tempo
+517 : Processo 2649626 Pronto -> Exec
+518 : Processo 2649626 Exec -> Pronto por tempo
+519 : Processo 2647226 Pronto -> Exec
+520 : Processo 2647226 Exec -> Pronto por tempo
+521 : Processo 2649626 Pronto -> Exec
+522 : Processo 2649626 Exec -> Pronto por tempo
+523 : Processo 2647226 Pronto -> Exec
+524 : Processo 2647226 Exec -> Pronto por tempo
+525 : Processo 2649626 Pronto -> Exec
+526 : Processo 2649626 Exec -> Pronto por tempo
+527 : Processo 2647226 Pronto -> Exec
+528 : Processo 2647226 Exec -> Pronto por tempo
+529 : Processo 2649626 Pronto -> Exec
+530 : Processo 2649626 Exec -> Pronto por tempo
+531 : Processo 2647226 Pronto -> Exec
+532 : Processo 2647226 Exec -> Pronto por tempo
+533 : Processo 2649626 Pronto -> Exec
+534 : Processo 2649626 Exec -> Pronto por tempo
+535 : Processo 2647226 Pronto -> Exec
+536 : Processo 2647226 Exec -> Pronto por tempo
+537 : Processo 2649626 Pronto -> Exec
+538 : Processo 2649626 Exec -> Pronto por tempo
+539 : Processo 2647226 Pronto -> Exec
+540 : Processo 2647226 Exec -> Pronto por tempo
+541 : Processo 2649626 Pronto -> Exec
+542 : Processo 2649626 Exec -> Pronto por tempo
+543 : Processo 2647226 Pronto -> Exec
+544 : Processo 2647226 Exec -> Pronto por tempo
+545 : Processo 2649626 Pronto -> Exec
+546 : Processo 2649626 Exec -> Pronto por tempo
+547 : Processo 2647226 Pronto -> Exec
+548 : Processo 2647226 Exec -> Pronto por tempo
+549 : Processo 2649626 Pronto -> Exec
+550 : Processo 2649626 Exec -> Pronto por tempo
+551 : Processo 2647226 Pronto -> Exec
+552 : Processo 2647226 Exec -> Pronto por tempo
+553 : Processo 2649626 Pronto -> Exec
+554 : Processo 2649626 Exec -> Pronto por tempo
+555 : Processo 2647226 Pronto -> Exec
+556 : Processo 2647226 Exec -> Pronto por tempo
+557 : Processo 2649626 Pronto -> Exec
+558 : Processo 2649626 Exec -> Pronto por tempo
+559 : Processo 2647226 Pronto -> Exec
+560 : Processo 2647226 Exec -> Pronto por tempo
+561 : Processo 2649626 Pronto -> Exec
+562 : Processo 2649626 Exec -> Pronto por tempo
+563 : Processo 2647226 Pronto -> Exec
+564 : Processo 2647226 Exec -> Pronto por tempo
+565 : Processo 2649626 Pronto -> Exec
+566 : Processo 2649626 Exec -> Pronto por tempo
+567 : Processo 2647226 Pronto -> Exec
+568 : Processo 2647226 Exec -> Pronto por tempo
+569 : Processo 2649626 Pronto -> Exec
+570 : Processo 2649626 Exec -> Pronto por tempo
+571 : Processo 2647226 Pronto -> Exec
+572 : Processo 2647226 Exec -> Pronto por tempo
+573 : Processo 2649626 Pronto -> Exec
+574 : Processo 2649626 Exec -> Pronto por tempo
+575 : Processo 2647226 Pronto -> Exec
+576 : Processo 2647226 Exec -> Pronto por tempo
+577 : Processo 2649626 Pronto -> Exec
+578 : Processo 2649626 Exec -> Pronto por tempo
+579 : Processo 2647226 Pronto -> Exec
+580 : Processo 2647226 Exec -> Pronto por tempo
+581 : Processo 2649626 Pronto -> Exec
+582 : Processo 2649626 Exec -> Pronto por tempo
+583 : Processo 2647226 Pronto -> Exec
+584 : Processo 2647226 Exec -> Pronto por tempo
+585 : Processo 2649626 Pronto -> Exec
+586 : Processo 2649626 Exec -> Pronto por tempo
+587 : Processo 2647226 Pronto -> Exec
+588 : Processo 2647226 Exec -> Pronto por tempo
+589 : Processo 2649626 Pronto -> Exec
+590 : Processo 2649626 Exec -> Pronto por tempo
+591 : Processo 2647226 Pronto -> Exec
+592 : Processo 2647226 Exec -> Pronto por tempo
+593 : Processo 2649626 Pronto -> Exec
+594 : Processo 2649626 Exec -> Pronto por tempo
+595 : Processo 2647226 Pronto -> Exec
+596 : Processo 2647226 Exec -> Pronto por tempo
+597 : Processo 2649626 Pronto -> Exec
+598 : Processo 2649626 Exec -> Pronto por tempo
+599 : Processo 2647226 Pronto -> Exec
+600 : Processo 2647226 Exec -> Pronto por tempo
+601 : Processo 2649626 Pronto -> Exec
+602 : Processo 2649626 Exec -> Pronto por tempo
+603 : Processo 2647226 Pronto -> Exec
+604 : Processo 2647226 Exec -> Pronto por tempo
+605 : Processo 2649626 Pronto -> Exec
+606 : Processo 2649626 Exec -> Pronto por tempo
+607 : Processo 2647226 Pronto -> Exec
+608 : Processo 2647226 Exec -> Pronto por tempo
+609 : Processo 2649626 Pronto -> Exec
+610 : Processo 2649626 Exec -> Pronto por tempo
+611 : Processo 2647226 Pronto -> Exec
+612 : Processo 2647226 Exec -> Pronto por tempo
+613 : Processo 2649626 Pronto -> Exec
+614 : Processo 2649626 Exec -> Pronto por tempo
+615 : Processo 2647226 Pronto -> Exec
+616 : Processo 2647226 Exec -> Pronto por tempo
+617 : Processo 2649626 Pronto -> Exec
+618 : Processo 2649626 Exec -> Pronto por tempo
+619 : Processo 2647226 Pronto -> Exec
+620 : Processo 2647226 Exec -> Pronto por tempo
+621 : Processo 2649626 Pronto -> Exec
+622 : Processo 2649626 Exec -> Pronto por tempo
+623 : Processo 2647226 Pronto -> Exec
+624 : Processo 2647226 Exec -> Pronto por tempo
+625 : Processo 2649626 Pronto -> Exec
+626 : Processo 2649626 Exec -> Pronto por tempo
+627 : Processo 2647226 Pronto -> Exec
+628 : Processo 2647226 Exec -> Pronto por tempo
+629 : Processo 2649626 Pronto -> Exec
+630 : Processo 2649626 Exec -> Pronto por tempo
+631 : Processo 2647226 Pronto -> Exec
+632 : Processo 2647226 Exec -> Pronto por tempo
+633 : Processo 2649626 Pronto -> Exec
+634 : Processo 2649626 Exec -> Pronto por tempo
+635 : Processo 2647226 Pronto -> Exec
+636 : Processo 2647226 Exec -> Pronto por tempo
+637 : Processo 2649626 Pronto -> Exec
+638 : Processo 2649626 Exec -> Pronto por tempo
+639 : Processo 2647226 Pronto -> Exec
+640 : Processo 2647226 Exec -> Pronto por tempo
+641 : Processo 2649626 Pronto -> Exec
+642 : Processo 2649626 Exec -> Pronto por tempo
+643 : Processo 2647226 Pronto -> Exec
+644 : Processo 2647226 Exec -> Pronto por tempo
+645 : Processo 2649626 Pronto -> Exec
+646 : Processo 2649626 Exec -> Pronto por tempo
+647 : Processo 2647226 Pronto -> Exec
+648 : Processo 2647226 Exec -> Pronto por tempo
+649 : Processo 2649626 Pronto -> Exec
+650 : Processo 2649626 Exec -> Pronto por tempo
+651 : Processo 2647226 Pronto -> Exec
+652 : Processo 2647226 Exec -> Pronto por tempo
+653 : Processo 2649626 Pronto -> Exec
+654 : Processo 2649626 Exec -> Pronto por tempo
+655 : Processo 2647226 Pronto -> Exec
+656 : Processo 2647226 Exec -> Pronto por tempo
+657 : Processo 2649626 Pronto -> Exec
+658 : Processo 2649626 Exec -> Pronto por tempo
+659 : Processo 2647226 Pronto -> Exec
+660 : Processo 2647226 Exec -> Pronto por tempo
+661 : Processo 2649626 Pronto -> Exec
+662 : Processo 2649626 Exec -> Pronto por tempo
+663 : Processo 2647226 Pronto -> Exec
+664 : Processo 2647226 Exec -> Pronto por tempo
+665 : Processo 2649626 Pronto -> Exec
+666 : Processo 2649626 Exec -> Pronto por tempo
+667 : Processo 2647226 Pronto -> Exec
+668 : Processo 2647226 Exec -> Pronto por tempo
+669 : Processo 2649626 Pronto -> Exec
+670 : Processo 2649626 Exec -> Pronto por tempo
+671 : Processo 2647226 Pronto -> Exec
+672 : Processo 2647226 Exec -> Pronto por tempo
+673 : Processo 2649626 Pronto -> Exec
+674 : Processo 2649626 Exec -> Pronto por tempo
+675 : Processo 2647226 Pronto -> Exec
+676 : Processo 2647226 Exec -> Pronto por tempo
+677 : Processo 2649626 Pronto -> Exec
+678 : Processo 2649626 Exec -> Pronto por tempo
+679 : Processo 2647226 Pronto -> Exec
+680 : Processo 2647226 Exec -> Pronto por tempo
+681 : Processo 2649626 Pronto -> Exec
+682 : Processo 2649626 Exec -> Pronto por tempo
+683 : Processo 2647226 Pronto -> Exec
+684 : Processo 2647226 Exec -> Pronto por tempo
+685 : Processo 2649626 Pronto -> Exec
+686 : Processo 2649626 Exec -> Pronto por tempo
+687 : Processo 2647226 Pronto -> Exec
+688 : Processo 2647226 Exec -> Pronto por tempo
+689 : Processo 2649626 Pronto -> Exec
+690 : Processo 2649626 Exec -> Pronto por tempo
+691 : Processo 2647226 Pronto -> Exec
+692 : Processo 2647226 Exec -> Pronto por tempo
+693 : Processo 2649626 Pronto -> Exec
+694 : Processo 2649626 Exec -> Pronto por tempo
+695 : Processo 2647226 Pronto -> Exec
+696 : Processo 2647226 Exec -> Pronto por tempo
+697 : Processo 2649626 Pronto -> Exec
+698 : Processo 2649626 Exec -> Pronto por tempo
+699 : Processo 2647226 Pronto -> Exec
+700 : Processo 2647226 Exec -> Pronto por tempo
+701 : Processo 2649626 Pronto -> Exec
+702 : Processo 2649626 Exec -> Pronto por tempo
+703 : Processo 2647226 Pronto -> Exec
+704 : Processo 2647226 Exec -> Pronto por tempo
+705 : Processo 2649626 Pronto -> Exec
+706 : Processo 2649626 Exec -> Pronto por tempo
+707 : Processo 2647226 Pronto -> Exec
+708 : Processo 2647226 Exec -> Pronto por tempo
+709 : Processo 2649626 Pronto -> Exec
+710 : Processo 2649626 Exec -> Pronto por tempo
+711 : Processo 2647226 Pronto -> Exec
+712 : Processo 2647226 Exec -> Pronto por tempo
+713 : Processo 2649626 Pronto -> Exec
+714 : Processo 2649626 Exec -> Pronto por tempo
+715 : Processo 2647226 Pronto -> Exec
+716 : Processo 2647226 Exec -> Pronto por tempo
+717 : Processo 2649626 Pronto -> Exec
+718 : Processo 2649626 Exec -> Pronto por tempo
+719 : Processo 2647226 Pronto -> Exec
+720 : Processo 2647226 Exec -> Pronto por tempo
+721 : Processo 2649626 Pronto -> Exec
+722 : Processo 2649626 Exec -> Pronto por tempo
+723 : Processo 2647226 Pronto -> Exec
+724 : Processo 2647226 Exec -> Pronto por tempo
+725 : Processo 2649626 Pronto -> Exec
+726 : Processo 2649626 Exec -> Pronto por tempo
+727 : Processo 2647226 Pronto -> Exec
+728 : Processo 2647226 Exec -> Pronto por tempo
+729 : Processo 2649626 Pronto -> Exec
+730 : Processo 2649626 Exec -> Pronto por tempo
+731 : Processo 2647226 Pronto -> Exec
+732 : Processo 2647226 Exec -> Pronto por tempo
+733 : Processo 2649626 Pronto -> Exec
+734 : Processo 2649626 Exec -> Pronto por tempo
+735 : Processo 2647226 Pronto -> Exec
+736 : Processo 2647226 Exec -> Pronto por tempo
+737 : Processo 2649626 Pronto -> Exec
+738 : Processo 2649626 Exec -> Pronto por tempo
+739 : Processo 2647226 Pronto -> Exec
+740 : Processo 2647226 Exec -> Pronto por tempo
+741 : Processo 2649626 Pronto -> Exec
+742 : Processo 2649626 Exec -> Pronto por tempo
+743 : Processo 2647226 Pronto -> Exec
+744 : Processo 2647226 Exec -> Pronto por tempo
+745 : Processo 2649626 Pronto -> Exec
+746 : Processo 2649626 Exec -> Pronto por tempo
+747 : Processo 2647226 Pronto -> Exec
+748 : Processo 2647226 Exec -> Pronto por tempo
+749 : Processo 2649626 Pronto -> Exec
+750 : Processo 2649626 Exec -> Pronto por tempo
+751 : Processo 2647226 Pronto -> Exec
+752 : Processo 2647226 Exec -> Pronto por tempo
+753 : Processo 2649626 Pronto -> Exec
+754 : Processo 2649626 Exec -> Pronto por tempo
+755 : Processo 2647226 Pronto -> Exec
+756 : Processo 2647226 Exec -> Pronto por tempo
+757 : Processo 26496
