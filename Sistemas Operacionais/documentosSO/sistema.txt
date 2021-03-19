@@ -1,0 +1,6 @@
+cap1_2.html:		<p>Em 1969, dois pesquisadores dos Laboratórios Bell chamdos <b>Ken Thompson</b> e <b> Dennis Ritchie</b> desenvolveram um sistema operacional 			chamado MULTICS. Bla, bla, bla.</p>
+cap1_2.html:		<p>Em 1969, dois pesquisadores dos Laboratórios Bell chamdos <b>Ken Thompson</b> e <b> Dennis Ritchie</b> desenvolveram um sistema operacional 			chamado MULTICS. Bla, bla, bla.</p>
+cap1.html:		<p>Em 1969, dois pesquisadores dos Laboratórios Bell chamdos <b>Ken Thompson</b> e <b> Dennis Ritchie</b> desenvolveram um sistema operacional 			chamado MULTICS. Bla, bla, bla.</p>
+cap2.html:		<p>Em 1969, dois pesquisadores dos Laboratórios Bell chamdos <b>Ken Thompson</b> e <b> Dennis Ritchie</b> desenvolveram um sistema operacional 			chamado MULTICS. Bla, bla, bla.</p>
+cap3.html:		<p>Em 1969, dois pesquisadores dos Laboratórios Bell chamdos <b>Ken Thompson</b> e <b> Dennis Ritchie</b> desenvolveram um sistema operacional 			chamado MULTICS. Bla, bla, bla.</p>
+intro.html:		<p>O presente trabalho faz um estudo sobre o sistema operacional <b>LINUX</b>. Bla, Bla.</p>
