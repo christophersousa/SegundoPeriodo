@@ -1,0 +1,185 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+178 : Processo 1140883 alocacao de blocos no pagefile
+178 : Processo 1140883 HwPF - Executável0
+178 : Processo 1140883 HwPF - Executável1
+178 : Processo 1140883 HwPF - Executável2
+178 : Processo 1140883 HwPF - Executável3
+178 : Processo 1140883 HwPF - Executável4
+178 : Processo 1140883 criado
+179 : Processo 1140883 Pronto -> Exec
+180 : Processo 1140883 Exec -> Pronto por tempo
+181 : Processo 1140883 Pronto -> Exec
+182 : Processo 1140883 Exec -> Pronto por tempo
+183 : Processo 1140883 Pronto -> Exec
+184 : Processo 1140883 Exec -> Pronto por tempo
+185 : Processo 1140883 Pronto -> Exec
+186 : Processo 1140883 Exec -> Pronto por tempo
+187 : Processo 1140883 Pronto -> Exec
+188 : Processo 1140883 Exec -> Pronto por tempo
+189 : Processo 1140883 Pronto -> Exec
+190 : Processo 1140883 Exec -> Pronto por tempo
+191 : Processo 1140883 Pronto -> Exec
+192 : Processo 1140883 Exec -> Pronto por tempo
+192 : Processo 1154506 alocacao de blocos no pagefile
+192 : Processo 1154506 HwPF - Executável0
+192 : Processo 1154506 HwPF - Executável1
+192 : Processo 1154506 HwPF - Executável2
+192 : Processo 1154506 HwPF - Executável3
+192 : Processo 1154506 HwPF - Executável4
+192 : Processo 1154506 criado
+193 : Processo 1140883 Pronto -> Exec
+194 : Processo 1140883 Exec -> Pronto por tempo
+195 : Processo 1154506 Pronto -> Exec
+195 : Processo 1154506 Exec -> I/O
+196 : Processo 1140883 Pronto -> Exec
+197 : Processo 1140883 Exec -> Pronto por tempo
+198 : Processo 1140883 Pronto -> Exec
+199 : Processo 1140883 Exec -> Pronto por tempo
+200 : Processo 1140883 Pronto -> Exec
+201 : Processo 1140883 Exec -> Pronto por tempo
+202 : Processo 1140883 Pronto -> Exec
+203 : Processo 1140883 Exec -> Pronto por tempo
+204 : Processo 1140883 Pronto -> Exec
+205 : Processo 1140883 Exec -> Pronto por tempo
+206 : Processo 1140883 Pronto -> Exec
+207 : Processo 1140883 Exec -> Pronto por tempo
+208 : Processo 1154506 Pronto -> Exec
+209 : Processo 1154506 Exec -> Pronto por tempo
+210 : Processo 1140883 Pronto -> Exec
+211 : Processo 1140883 Exec -> Pronto por tempo
+212 : Processo 1154506 Pronto -> Exec
+212 : Processo 1154506 Exec -> I/O
+213 : Processo 1140883 Pronto -> Exec
+214 : Processo 1140883 Exec -> Pronto por tempo
+215 : Processo 1140883 Pronto -> Exec
+216 : Processo 1140883 Exec -> Pronto por tempo
+217 : Processo 1140883 Pronto -> Exec
+218 : Processo 1140883 Exec -> Pronto por tempo
+219 : Processo 1140883 Pronto -> Exec
+220 : Processo 1140883 Exec -> Pronto por tempo
+221 : Processo 1140883 Pronto -> Exec
+222 : Processo 1140883 Exec -> Pronto por tempo
+223 : Processo 1140883 Pronto -> Exec
+224 : Processo 1140883 Exec -> Pronto por tempo
+225 : Processo 1154506 Pronto -> Exec
+225 : Processo 1154506 Exec -> I/O
+226 : Processo 1140883 Pronto -> Exec
+227 : Processo 1140883 Exec -> Pronto por tempo
+228 : Processo 1140883 Pronto -> Exec
+229 : Processo 1140883 Exec -> Pronto por tempo
+230 : Processo 1140883 Pronto -> Exec
+231 : Processo 1140883 Exec -> Pronto por tempo
+232 : Processo 1140883 Pronto -> Exec
+233 : Processo 1140883 Exec -> Pronto por tempo
+234 : Processo 1140883 Pronto -> Exec
+235 : Processo 1140883 Exec -> Pronto por tempo
+236 : Processo 1140883 Pronto -> Exec
+237 : Processo 1140883 Exec -> Pronto por tempo
+238 : Processo 1154506 Pronto -> Exec
+238 : Processo 1154506 Exec -> I/O
+239 : Processo 1140883 Pronto -> Exec
+240 : Processo 1140883 Exec -> Pronto por tempo
+241 : Processo 1140883 Pronto -> Exec
+242 : Processo 1140883 Exec -> Pronto por tempo
+243 : Processo 1140883 Pronto -> Exec
+244 : Processo 1140883 Exec -> Pronto por tempo
+245 : Processo 1140883 Pronto -> Exec
+246 : Processo 1140883 Exec -> Pronto por tempo
+247 : Processo 1140883 Pronto -> Exec
+248 : Processo 1140883 Exec -> Pronto por tempo
+249 : Processo 1140883 Pronto -> Exec
+250 : Processo 1140883 Exec -> Pronto por tempo
+251 : Processo 1154506 Pronto -> Exec
+251 : Processo 1154506 Exec -> I/O
+252 : Processo 1140883 Pronto -> Exec
+253 : Processo 1140883 Exec -> Pronto por tempo
+254 : Processo 1140883 Pronto -> Exec
+255 : Processo 1140883 Exec -> Pronto por tempo
+256 : Processo 1140883 Pronto -> Exec
+257 : Processo 1140883 Exec -> Pronto por tempo
+258 : Processo 1140883 Pronto -> Exec
+259 : Processo 1140883 Exec -> Pronto por tempo
+260 : Processo 1140883 Pronto -> Exec
+261 : Processo 1140883 Exec -> Pronto por tempo
+262 : Processo 1140883 Pronto -> Exec
+263 : Processo 1140883 Exec -> Pronto por tempo
+264 : Processo 1154506 Pronto -> Exec
+264 : Processo 1154506 Exec -> I/O
+265 : Processo 1140883 Pronto -> Exec
+266 : Processo 1140883 Exec -> Pronto por tempo
+267 : Processo 1140883 Pronto -> Exec
+268 : Processo 1140883 Exec -> Pronto por tempo
+269 : Processo 1140883 Pronto -> Exec
+270 : Processo 1140883 Exec -> Pronto por tempo
+271 : Processo 1140883 Pronto -> Exec
+272 : Processo 1140883 Exec -> Pronto por tempo
+273 : Processo 1140883 Pronto -> Exec
+274 : Processo 1140883 Exec -> Pronto por tempo
+275 : Processo 1140883 Pronto -> Exec
+276 : Processo 1140883 Exec -> Pronto por tempo
+277 : Processo 1154506 Pronto -> Exec
+277 : Processo 1154506 Exec -> I/O
+278 : Processo 1140883 Pronto -> Exec
+279 : Processo 1140883 Exec -> Pronto por tempo
+280 : Processo 1140883 Pronto -> Exec
+281 : Processo 1140883 Exec -> Pronto por tempo
+282 : Processo 1140883 Pronto -> Exec
+283 : Processo 1140883 Exec -> Pronto por tempo
+284 : Processo 1140883 Pronto -> Exec
+285 : Processo 1140883 Exec -> Pronto por tempo
+286 : Processo 1140883 Pronto -> Exec
+287 : Processo 1140883 Exec -> Pronto por tempo
+288 : Processo 1140883 Pronto -> Exec
+289 : Processo 1140883 Exec -> Pronto por tempo
+290 : Processo 1154506 Pronto -> Exec
+290 : Processo 1154506 Exec -> I/O
+291 : Processo 1140883 Pronto -> Exec
+292 : Processo 1140883 Exec -> Pronto por tempo
+293 : Processo 1140883 Pronto -> Exec
+294 : Processo 1140883 Exec -> Pronto por tempo
+295 : Processo 1140883 Pronto -> Exec
+296 : Processo 1140883 Exec -> Pronto por tempo
+297 : Processo 1140883 Pronto -> Exec
+298 : Processo 1140883 Exec -> Pronto por tempo
+299 : Processo 1140883 Pronto -> Exec
+300 : Processo 1140883 Exec -> Pronto por tempo
+301 : Processo 1140883 Pronto -> Exec
+302 : Processo 1140883 Exec -> Pronto por tempo
+303 : Processo 1154506 Pronto -> Exec
+303 : Processo 1154506 Exec -> I/O
+304 : Processo 1140883 Pronto -> Exec
+305 : Processo 1140883 Exec -> Pronto por tempo
+306 : Processo 1140883 Pronto -> Exec
+307 : Processo 1140883 Exec -> Pronto por tempo
+308 : Processo 1140883 Pronto -> Exec
+309 : Processo 1140883 Exec -> Pronto por tempo
+310 : Processo 1140883 Pronto -> Exec
+311 : Processo 1140883 Exec -> Pronto por tempo
+312 : Processo 1140883 Pronto -> Exec
+313 : Processo 1140883 Exec -> Pronto por tempo
+314 : Processo 1140883 Pronto -> Exec
+315 : Processo 1140883 Exec -> Pronto por tempo
+316 : Processo 1154506 Pronto -> Exec
+316 : Processo 1154506 Exec -> I/O
+317 : Processo 1140883 Pronto -> Exec
+318 : Processo 1140883 Exec -> Pronto por tempo
+319 : Processo 1140883 Pronto -> Exec
+320 : Processo 1140883 Exec -> Pronto por tempo
+321 : Processo 1140883 Pronto -> Exec
+322 : Processo 1140883 Exec -> Pronto por tempo
+323 : Processo 1140883 Pronto -> Exec
+324 : Processo 1140883 Exec -> Pronto por tempo
+325 : Processo 1140883 Pronto -> Exec
+326 : Processo 1140883 Exec -> Pronto por tempo
+327 : Processo 1140883 Pronto -> Exec
+327 : Processo 1140883 eliminado
+327 : Tempo de UCP:69 Tempo decorrido:149
+327 : Processo 1140883 liberando pagefile reservado
+328 : Processo 1154506 Pronto -> Exec
+328 : Processo 1154506 Exec -> I/O
+339 : Processo 1154506 Pronto -> Exec
+339 : Processo 1154506 eliminado
+339 : Tempo de UCP:13 Tempo decorrido:147
+339 : Processo 1154506 liberando pagefile reservado
+1251 : SOsim desativado
