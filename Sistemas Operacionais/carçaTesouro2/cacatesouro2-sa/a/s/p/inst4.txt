@@ -1,0 +1,27 @@
+== Caça ao Tesouro ==
+
+
+Arquivos muito grandes são difíceis de encontrar informações. Além disso, muitas vezes precisamos apenas saber o conteúdo inicial de um arquivo, ou mesmo o final do arquivo. Os comandos head e tail nos ajuda a obter informações do início e fim do arquivo.
+
+25 - Digite {head noticia.txt} e veja as primeiras linhas do arquivo.
+
+26 - E se quisermos ver apenas as primeiras 3 linhas? Digite: head -n3 noticia.txt
+
+27 - Digite {tail noticia.txt} e veja as últimas linhas do arquivo.
+
+28 - E se quisermos ver apenas as últimas 5 linhas? Digite: tail -n5 noticia.txt}
+
+29 - [esse passo não vai funcionar no Docker. Mas leia para ver como se faz] Agora, vamos montar um pendrive ou HD no seu sistema de arquivo do Linux. Para isso, você deve criar uma pasta para ponto de montagem. a) Execute o comando sudo mkdir /mnt/pen; b) execute sudo fdisk -l para saber quais dispositivos estão conectados; c) veja quais dos dispositivo é seu hd ou pendrive e execute sudo mount /dev/sdb3 /mnt/pen [altere o sdb3 pelo dispositivo correto, tal como sda1] 
+
+== Validação ==
+
+30 - Massa! Agora que concluiu, vamos validar o que você fez. 
+Se você estiver executando pelo Docker, entre em /home/so e:
+Se você estiver executando a partir do arquivo zipado, entre na raiz do arquivo descompactado e:
+
+  para validar cada um dos passos, digite:
+       {source validar.sh "SEU_NOME_COMPLETO_ENTRE_ASPAS"} 
+ 
+[se algum passo ficar com ?, é porque você não fez corretamente o passo. Abra o arquivo correto, associado ao passo, para rever o que ocorreu, e tente novamente. Execute esse passo de validação quantas vezes forem necessárias até concluir as atividades. Ao final, dê um printscreen e anexe na atividade]
+
+FIM

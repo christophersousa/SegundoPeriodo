@@ -1,0 +1,26 @@
+== Caça ao Tesouro ==
+
+Muitas vezes, você precisa saber onde está localizado um determinado comando para, por exemplo, referenciar seu caminho completo.
+
+Para saber onde se encontra um determinado programa, use o comando whereis.
+
+7 - Encontre a localização do comando ls, digitando {whereis ls}. Procure outros comandos que você já conhece no linux, tais como tar.
+
+8 - Relembre em qual diretório você está, digitando: pwd [Copie o caminho completo, pois você precisará voltar para ele.]
+
+9 - Vá para a raiz do disco, digitando cd /
+
+10 - Dê um ls na raiz do disco e veja quais diretórios existem. Perceba, que entre outras pastas, há a pasta home. É nela que são armazenadas as informações de todos os usuários do Linux. Digite {ls home} para ver os usuários existentes.
+
+11 - Volte para a pasta onde você estava.
+
+Os arquivos são salvos em diferentes formatos, com diferentes codificações de caracteres. Para saber qual a codificação de um determinado arquivo, use o comando file.
+
+12 - Digite {file inst2.txt} para saber a codificação do arquivo inst2.txt.
+
+13 - Digite {file arq.txt}. Perceba que mesmo sendo dois arquivos de texto (insta.txt e arq.txt), a codificação é distinta. No inst2.txt, usa-se UTF-8, e no arq.txt o ASCII.
+
+14 - Edite o arquivo arq.txt com o editor nano {nano arq.txt}, digite uma palavra com acento {é} no texto do arquivo e, depois, veja, utilizando o comando file, se ele continua a ser ASCII: {file arq.txt}
+
+15 - Entre na pasta s.
+

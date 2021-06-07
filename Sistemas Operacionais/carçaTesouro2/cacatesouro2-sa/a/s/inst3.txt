@@ -1,0 +1,29 @@
+
+== Caça ao Tesouro ==
+
+
+Muitas vezes precisamos encontrar arquivos. O disco é tão grande que será normal perdermos um arquivo em uma pasta qualquer. Como encontrar?
+
+16 - Procure o arquivo arq2.txt, utilizando o comando: find . -name arq2.txt
+
+  Perceba que o . referencia o diretório corrente.
+
+17 - Pode-se usar coringas no linux como parâmetro. Digite agora: find . -name arq*
+
+  Perceba que é similar ao comando executado no item 1.
+
+  Mais poderoso é quando se juntam dois ou mais comandos no linux. O comando grep, por exemplo, realiza busca em um conjunto de caracteres. 
+
+18 - Estamos procurando, dentro do arquivo arq2.txt, o nome de uma pessoa que tenha a sequência de caracteres LA. O Linux é um sistema de arquivo case sensitive, ou seja, diferencia maiúsculas e minúsculas. Digite: cat arq2.txt | grep LA
+
+19 - Faça outras buscas dentro do arquivo arq2.txt, procurando desta vez parte do seu nome.
+
+20 - Para fazer jus ao nome do arquivo arq2.txt, vamos mudar o nome dele. Para isso, usamos o comando mv. Mude o nome do arquivo arq2.txt para alunos.txt
+
+21 - O grep também, por si só, procura arquivos que contenham um determinado padrão. Vamos procurar todos os arquivos, *na pasta corrente*, que contenham a palavra ANA? Digite: grep ANA *.* [significa que irá procurar o padrão ANA dentro de qualquer arquivo cujo nome seja qualquer {*}, seguido de ., com extensão qualquer {*}]
+
+22 - E se eu quiser procurar todos os arquivos que contenham a palavra ANA, porém, na pasta corrente e em todas as suas subpastas? Para isso, há o parâmetro [r] que pode ser passado. Sendo assim, digite: grep -r ANA *.txt
+
+23 - E se eu quiser filtrar para que sejam devolvidos apenas os arquivos de texto? Execute o comando a seguir, e compare o resultado com o anterior. Digite: grep -r ANA *.txt
+
+24 - entre na pasta p.

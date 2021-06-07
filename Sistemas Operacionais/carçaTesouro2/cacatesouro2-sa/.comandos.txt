@@ -1,0 +1,1003 @@
+  961  cd Exercicios/
+  962  node Notas.js 
+  963  cd Exercicios/
+  964  node Notas.js 
+  965  cd Exercicios/
+  966  node Notas.js 
+  967  cd Exercicios/
+  968  node SistmasGastos.js 
+  969  cd Exercicios/
+  970  node SistmasGastos.js 
+  971  cd Exercicios/
+  972  node SistmasGastos.js 
+  973  cd Exercicios/
+  974  node SistmasGastos.js 
+  975  cd Exercicios/
+  976  node SistmasGastos.js 
+  977  cd Exercicios/
+  978  node SistmasGastos.js 
+  979  cd Exercicios/
+  980  node SistmasGastos.js 
+  981  cd Exercicios/
+  982  node SistmasGastos.js 
+  983  cd Exercicios/
+  984  node SistmasGastos.js 
+  985  cd Exercicios/
+  986  node SistmasGastos.js 
+  987  cd Exercicios/
+  988  node SistmasGastos.js 
+  989  cd Exercicios/
+  990  node SistmasGastos.js 
+  991  cd Exercicios/
+  992  node SistmasGastos.js 
+  993  cd Exercicios/
+  994  node SistmasGastos.js 
+  995  cd Exercicios/
+  996  node SistmasGastos.js 
+  997  cd Exercicios/
+  998  node SistmasGastos.js 
+  999  cd Exercicios/
+ 1000  node SistmasGastos.js 
+ 1001  cd Exercicios/
+ 1002  node SistmasGastos.js 
+ 1003  cd Exercicios/
+ 1004  node SistmasGastos.js 
+ 1005  cd Exercicios/
+ 1006  node SistmasGastos.js 
+ 1007  cd Exercicios/
+ 1008  node C\&F.js 
+ 1009  cd Exercicios/
+ 1010  node C\&F.js 
+ 1011  cd Exercicios/
+ 1012  node C\&F.js 
+ 1013  cd Exercicios/
+ 1014  node C\&F.js 
+ 1015  cd Exercicios/
+ 1016  node C\&F.js 
+ 1017  cd Exercicios/
+ 1018  node C\&F.js 
+ 1019  cd Exercicios/
+ 1020  node C\&F.js 
+ 1021  cd Exercicios/
+ 1022  node BuscaArray.js 
+ 1023  cd Exercicios/
+ 1024  node BuscaArray.js 
+ 1025  cd Exercicios/
+ 1026  node BuscaArray.js 
+ 1027  cd Exercicios/
+ 1028  node BuscaArray.js 
+ 1029  cd Exercicios/
+ 1030  node BuscaArray.js 
+ 1031  cd Exercicios/
+ 1032  node BuscaArray.js 
+ 1033  cd Exercicios/
+ 1034  node BuscaArray.js 
+ 1035  cd Exercicios/
+ 1036  node BuscaArray.js 
+ 1037  cd Exercicios/
+ 1038  node BuscaArray.js 
+ 1039  cd Exercicios/
+ 1040  node BuscaArray.js 
+ 1041  cd Exercicios/
+ 1042  node BuscaArray.js 
+ 1043  cd Exercicios/
+ 1044  node BuscaArray.js 
+ 1045  cd Exercicios/
+ 1046  node BuscaArray.js 
+ 1047  cd Exercicios/
+ 1048  node BuscaArray.js 
+ 1049  cd Exercicios/
+ 1050  node BuscaArray.js 
+ 1051  cd 01
+ 1052  cd 01-github-explorer/
+ 1053  yarn init -y
+ 1054  sudo apt install yarn
+ 1055  yarn init -y
+ 1056  npm init -y
+ 1057  sudo apt install npm
+ 1058  npm init -y
+ 1059  cd 01-github-explorer/
+ 1060  npm add react
+ 1061  npm add reack-dom
+ 1062  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+ 1063  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add
+ 1064  sudo apt install curl
+ 1065  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add
+ 1066  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+ 1067  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add .
+ 1068  sudo apt update
+ 1069  sudo apt install --no-install-recommends yarn
+ 1070  yarn init -y
+ 1071  cmdtest init -y
+ 1072  yarn init -y
+ 1073  npm install --global yarn
+ 1074  yarn -v
+ 1075  yarn --version
+ 1076  sudo apt install yarn
+ 1077  cd 01-github-explorer/
+ 1078  yarn init -y
+ 1079  sudo yarn init -y
+ 1080  npm init -y
+ 1081  yarn add react
+ 1082  yarn -v
+ 1083  yarn --version
+ 1084  npm add react
+ 1085  npm add react-dom
+ 1086  curl --version
+ 1087  sudo apt install curl
+ 1088  curl -sL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+ 1089  sudo apt-get install -y nodejs
+ 1090  node -v
+ 1091  npm -v
+ 1092  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+ 1093  sudo apt update && sudo apt install --no-install-recommends yarn
+ 1094  export PATH="$PATH:`yarn global bin`"
+ 1095  yarn --version
+ 1096  $ curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+ 1097  curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+ 1098  yarn --version
+ 1099  cd teste/
+ 1100  yarn init -y
+ 1101  cd 01-github-explorer/
+ 1102  yarn init -y
+ 1103  yarn add react
+ 1104  yarn add react-dom
+ 1105  cat  / proc / bus / input / devices
+ 1106  cat  / proc / bus / entrada / dispositivos |  grep  -I touchpad
+ 1107  lista de entrada
+ 1108  xinput list
+ 1109  xserver-xorg-input-libinput
+ 1110  xserver-xorg-input-libinput 
+ 1111  xserver-xorg-input-evdev 
+ 1112  xserver-xorg-input-mouse
+ 1113  xserver-xorg-input-libinput
+ 1114  sudo xserver-xorg-input-libinput
+ 1115  xserver-xorg-input-mouse
+ 1116  xserver-xorg-input-libinput 
+ 1117  xserver-xorg-input-evdev 
+ 1118  xserver-xorg-input-mouse
+ 1119  xserver-xorg-input-synaptics
+ 1120  xinput list
+ 1121  user@TUF-GAMING-FX504GD-FX80GD:~$ synclient
+ 1122  less /proc/bus/input/devices
+ 1123  sudo rmmod i2c_hid
+ 1124  sudo modprobe i2c_hid
+ 1125  sudo nano /etc/default/grub
+ 1126  sudo update-grub
+ 1127  shutdown now
+ 1128  cd 01-github-explorer/
+ 1129  yarn @babel/core @babel/cli @babel/preset-env -D
+ 1130  yarn add @babel/core @babel/cli @babel/preset-env -D
+ 1131  cd 01-github-explorer/
+ 1132  yarn babel ./src/index.js --out-file ./dist/bundle.js
+ 1133  yarn add @babal/preset-react -D
+ 1134  yarn add @babel/preset-react -D
+ 1135  node
+ 1136  code
+ 1137  yarn  init -y
+ 1138  yarn add react
+ 1139  yarn add react-dom
+ 1140  yarn add @babel/core @babel/cli @babel/preset-env @babel/preset-react
+ 1141  yarn init -y
+ 1142  yarn add react
+ 1143  yarn add @babel/core @babel/cli @babel/preset-env @babel/preset-react -D
+ 1144  yarn add react-dom
+ 1145  yarn babel ./ser/index.jsx --out-file ./dist/budle.js
+ 1146  yarn babel ./src/index.jsx --out-file ./dist/budle.js
+ 1147  yarn babel ./src/index.jsx --out-file ./dist/bundle.js
+ 1148  yarn babel ./src/index.js --out-file ./dist/bundle.js
+ 1149  yarn babel src/index.jsx --out-file ./dist/bundle.js
+ 1150  yarn init -y
+ 1151  yarn add react
+ 1152  yarn add @babel/core @babel/cli @babel/preset-env @babel/preset-react -D
+ 1153  yarn add react-dom
+ 1154  yarn babel ./src/index.jsx --out-file ./dist/bundle.js
+ 1155  yarn add webpack webpack-cli -D
+ 1156  yarn add babel-loader -D
+ 1157  yarn webpack
+ 1158  yarn add html-webpack-plugin -D
+ 1159  yarn webpackt
+ 1160  yarn webpack
+ 1161  yarn add webpack-dev-serve
+ 1162  yarn add webpack-dev-serve -D
+ 1163  yarn add webpack-dev-server -D
+ 1164  yarn webpack serve
+ 1165  yarn dev
+ 1166  yarn build
+ 1167  yarn cross-env -D
+ 1168  yarn add cross-env -D
+ 1169  yarn cross-env -D
+ 1170  yarn build
+ 1171  /usr/bin/python3 /home/christopher/Documents/SegundoProjetoED/main.py
+ 1172  yarn add style-loader css-loader -D
+ 1173  dev
+ 1174  yarn dev
+ 1175  yarn add node-ssas -D
+ 1176  yarn add node-sass -D
+ 1177  yarn add sass-loader -D
+ 1178  yar dev
+ 1179  yarn dev
+ 1180  node
+ 1181  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Estrutura de Dados/recursividade/main.py"
+ 1182  /usr/bin/python3 /home/christopher/Documents/SegundoProjetoED/main.py
+ 1183  git add .
+ 1184  git status
+ 1185  git "Oitavo commit"
+ 1186  git commit -m "Oitavo commit"
+ 1187  git status
+ 1188  clear
+ 1189  git status
+ 1190  git push origin -M main
+ 1191  git push origin main
+ 1192  mv ROcketseat/ RocketseatJS
+ 1193  git "RocketseatJs">> README.md
+ 1194  git init
+ 1195  git add README.md
+ 1196  git add .
+ 1197  git status
+ 1198  git commit -m "primeiro commit"
+ 1199  git branch -M main
+ 1200  git remote add origin https://github.com/christophersousa/RocketseatJs.git
+ 1201  git push origin main
+ 1202  cd Documents/SegundoProjetoED/
+ 1203  echo "MiniBanco">> README.md
+ 1204  git init 
+ 1205  add README.md
+ 1206  git add README.md
+ 1207  git add .
+ 1208  git status
+ 1209  git commit -m "primeiro commit"
+ 1210  git status
+ 1211  git branch -M main
+ 1212  git remote add origin https://github.com/christophersousa/MiniBanco.git
+ 1213  git push -u origin main
+ 1214  cd ..
+ 1215  ls
+ 1216  cd projeto_LS/
+ 1217  git code https://github.com/christophersousa/Projeto-LM-PrimeiroPeriodo.git
+ 1218  git -h
+ 1219  gh repo clone christophersousa/Projeto-LM-PrimeiroPeriodo
+ 1220  git clone https://github.com/christophersousa/Projeto-LM-PrimeiroPeriodo.git
+ 1221  mv praticas\ html-20210408T013720Z-001.zip ../Documents/projeto_LS/
+ 1222  cd ../Documents/projeto_LS/
+ 1223  unzip praticas\ html-20210408T013720Z-001.zip 
+ 1224  mkdir Metodologia
+ 1225  mkdir SegundoProjeto
+ 1226  mkdir css
+ 1227  mkdir javascript
+ 1228  sudo apt install gnome-tweaks
+ 1229  cd Downloads/
+ 1230  ls
+ 1231  mv site.zip ../Documents/Monitoria/
+ 1232  cd ../Documents/Monitoria/
+ 1233  cd ./Documents/Monitoria/
+ 1234  mkdir felxBox
+ 1235  mv felxBox flexbox
+ 1236  mv site.zip flexbox/
+ 1237  cd flexbox/
+ 1238  unzip site.zip 
+ 1239  rm site.zip 
+ 1240  google-chrome index.html
+ 1241  ls
+ 1242  cd ..
+ 1243  code flexbox
+ 1244  cd flexbox/
+ 1245  code site
+ 1246  cd site
+ 1247  google-chrome index.html 
+ 1248  mkdir FlexBox
+ 1249  cd Documents/projeto_LS/
+ 1250  clone https://github.com/christophersousa/Meus_projetos.git
+ 1251  git clone https://github.com/christophersousa/Meus_projetos.git
+ 1252  sudo apt rm <Genshin impact>
+ 1253  sudo apt remove <Genshin impact>
+ 1254  sudo apt remove <genshin impact>
+ 1255  sudo apt remove genshin impact
+ 1256  sudo apt remove Genshin impact
+ 1257  GIMP
+ 1258  photoGIMP
+ 1259  photo
+ 1260  photgimp
+ 1261  photogimp
+ 1262  calculadora
+ 1263  calculator
+ 1264  code ./Documents/projeto_LS/SegundoProjeto/
+ 1265  mokdir InforTach
+ 1266  mkdir InforTach
+ 1267  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/servidor.py"
+ 1268  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/cliente.py"
+ 1269  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/servidor.py"
+ 1270  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/cliente.py"
+ 1271  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/servidor.py"
+ 1272  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1273  ls
+ 1274  ssh sercidor.py
+ 1275  ./servidor
+ 1276  python servidor
+ 1277  python3 servidor
+ 1278  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/servidor.py"
+ 1279  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1280  python3 cliente.py 
+ 1281  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/servidor.py"
+ 1282  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/cliente.py"
+ 1283  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1284  python servidor.py 
+ 1285  python3 servidor.py 
+ 1286  ls
+ 1287  cd Downloads/
+ 1288  ls
+ 1289  mv shopping-cart.svg ../Documents/projeto_LS/SegundoProjeto/
+ 1290  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/servidor.py"
+ 1291  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1292  python3 cliente.py 
+ 1293  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1294  python3 cliente.py 
+ 1295  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/servidor.py"
+ 1296  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1297  python3 cliente.py 
+ 1298  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1299  python3 cliente.py 
+ 1300  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/servidor.py"
+ 1301  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1302  python3 cliente.py 
+ 1303  clear
+ 1304  python3 cliente.py 
+ 1305  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/servidor.py"
+ 1306  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1307  python3 cliente.py 
+ 1308  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1309  python3 cliente.py 
+ 1310  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/servidor.py"
+ 1311  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/cliente.py"
+ 1312  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/servidor.py"
+ 1313  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1314  python3 servidor.py 
+ 1315  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket
+ 1316  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1317  python3 cliente.py 
+ 1318  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1319  python3 cliente.py 
+ 1320  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/socket/cliente.py"
+ 1321  vim cliente.py
+ 1322  hostname
+ 1323  hostname -I
+ 1324  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1325  python3 servidor.py 
+ 1326  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1327  python3 cliente.py 
+ 1328  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1329  python3 servidor.py 
+ 1330  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1331  python3 cliente.py 
+ 1332  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/
+ 1333  mkdir cavalo
+ 1334  cd cavalo
+ 1335  vim servidor.py
+ 1336  python3 servidor.py 
+ 1337  vim servidor.py 
+ 1338  python3 servidor.py 
+ 1339  vim servidor.py 
+ 1340  python3 servidor.py 
+ 1341  vim servidor.py 
+ 1342  python3 servidor.py 
+ 1343  vim servidor.py 
+ 1344  python3 servidor.py 
+ 1345  vim servidor.py 
+ 1346  python3 servidor.py 
+ 1347  vim servidor.py 
+ 1348  python3 servidor.py 
+ 1349  vim servidor.py 
+ 1350  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/socket/
+ 1351  vim cliente.py
+ 1352  cd Documents/SegundoPeriodo/Sistemas\ Operacionais
+ 1353  cd Documents/SegundoPeriodo/Sistemas\ Operac
+ 1354  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/
+ 1355  cd ..
+ 1356  cd cavalo/
+ 1357  vim cliente.py
+ 1358  ls
+ 1359  cd Downloads/
+ 1360  mv microchip.svg ../Documents/projeto_LS/SegundoProjeto/icons
+ 1361  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/cavalo/servidor.py"
+ 1362  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/cavalo/
+ 1363  python3 cliente.py 
+ 1364  /home/christopher/cliente.py
+ 1365  python3 cliente.py 
+ 1366  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/cavalo/servidor.py"
+ 1367  python3 cliente.py 
+ 1368  yarn create-react-app poadcaste
+ 1369  npx create-react-app poadcaste
+ 1370  yarn start
+ 1371  cd Documents/projeto_LS/SegundoProjeto/
+ 1372  code .
+ 1373  cd ./Documents
+ 1374  ls
+ 1375  cd ReactRocketseat/NLW/Aula1/poadcaste/
+ 1376  code .
+ 1377  cd Documents/ReactRocketseat/NLW/
+ 1378  nxt create-next-app PoadCastNext
+ 1379  npx create-next-app PoadCastNext
+ 1380  npx create-next-app podcastrnext
+ 1381  cd podcastrnext/
+ 1382  code .
+ 1383  yarn dev
+ 1384  yarn add typescript @types/react @type/node -D
+ 1385  cd Documents/projeto_LS/SegundoProjeto/
+ 1386  code .
+ 1387  cd Documents/projeto_LS/SegundoProjeto/
+ 1388  code .
+ 1389  cd Documents/projeto_LS/SegundoProjeto/
+ 1390  code .
+ 1391  cal
+ 1392  cd Downloads/
+ 1393  mv public.zip ../Documents/ReactRocketseat/NLW/
+ 1394  cd public.zip ../Documents/ReactRocketseat/NLW/
+ 1395  cd ../Documents/ReactRocketseat/NLW/
+ 1396  ls
+ 1397  mv public.zip  podcastrnext/
+ 1398  cd podcastrnext/
+ 1399  mv public.zip public
+ 1400  cd public/
+ 1401  unzip public.zip 
+ 1402  calc
+ 1403  calculato
+ 1404  yarn add typescript @types/react @types/node -D
+ 1405  yarn add sass
+ 1406  dev
+ 1407  yarn dev
+ 1408  yarn add date-fns
+ 1409  yarn biuld
+ 1410  yarn build
+ 1411  yarn start
+ 1412  yarn serve-json -D
+ 1413  yarn add json-server -D
+ 1414  yarn server
+ 1415  yarn start
+ 1416  yarn dev
+ 1417  yarn start
+ 1418  yarn server
+ 1419  yarn start
+ 1420  yarn build
+ 1421  yarn start
+ 1422  cd Documents/projeto_LS/SegundoProjeto/
+ 1423  code .
+ 1424  yarn dev
+ 1425  yarn add axios
+ 1426  yarn server
+ 1427  yarn dev
+ 1428  yarn server
+ 1429  yarn start
+ 1430  yarn dev
+ 1431  google-chrome
+ 1432  ssh aluno@127.0.1.1
+ 1433  wget -o https://drive.google.com/u/0/uc?id=19Xb0X2jzQUKXL2AAgxdM-1HaYz01ni7r&export=download
+ 1434  wget -o debian.zip https://drive.google.com/u/0/uc?id=19Xb0X2jzQUKXL2AAgxdM-1HaYz01ni7r&export=download
+ 1435  google-chrome
+ 1436  hostname -I
+ 1437  ssh aluno@192.168.0.114
+ 1438  sudo apt -get clean
+ 1439  sudo apt -get clear
+ 1440  sudo apt-get clear
+ 1441  sudo apt-get clean
+ 1442  ssh aluno@192.168.0.114
+ 1443  hostname -I
+ 1444  ssh aluno@192.168.0.114
+ 1445  wget http://aulas-ua2.vhost.ifpb.edu.br/PIRC/sockets.tar.gz 
+ 1446  mv sockets.tar.gz Documents/SegundoPeriodo/Protocolos/
+ 1447  cd Documents/SegundoPeriodo/Protocolos/
+ 1448  mkdir socketApp
+ 1449  ls
+ 1450  mv sockets.tar.gz socketApp/
+ 1451  cd socketApp/
+ 1452  tar xvzf sockets.tar.gz 
+ 1453  cd sockets/exemplo-tcp/
+ 1454  gcc cliente.c
+ 1455  gcc cliente.c -o cliente-fork
+ 1456  ./cliente 192.168.0.114
+ 1457  cd ../exemplo-udp/
+ 1458  nano cliente-con.c 
+ 1459  gcc  cliente-con.c -o cliente-con
+ 1460  ./cliente-con 
+ 1461  ./cliente-con 192.168.0.114
+ 1462  ..
+ 1463  ../
+ 1464  cd ..
+ 1465  cd..
+ 1466  cd ..
+ 1467  ls
+ 1468  wget http://aulas-ua2.vhost.ifpb.edu.br/PIRC/sockets-python.tar.gz
+ 1469  tar xvzf sockets-python.tar.gz 
+ 1470  cd sockets-python/
+ 1471  ./cliente.py 
+ 1472  nano cliente.py 
+ 1473  ./cliente.py 
+ 1474  ./cliente 192.168.0.114
+ 1475  ./cliente.py 192.168.0.114
+ 1476  ./cliente.py  192.168.0.114
+ 1477  nano cliente.py 
+ 1478  ./cliente.py  192.168.0.114
+ 1479  nano cliente.py 
+ 1480  ./cliente.py 192.168.0.114
+ 1481  python3 ./cliente.py 192.168.0.114
+ 1482  nano cliente.py 
+ 1483  ./cliente.py 192.168.0.114
+ 1484  nano cliente.py 
+ 1485  ./cliente.py 192.168.0.114
+ 1486  nano cliente.py 
+ 1487  gcc cliente.py 
+ 1488  ./cliente.py
+ 1489  ./cliente.py 192.168.0.114
+ 1490  nano cliente.py 
+ 1491  ./cliente.py
+ 1492  nano cliente.py 
+ 1493  ./cliente.py
+ 1494  nano cliente.py 
+ 1495  ssh aluno@192.168.0.114
+ 1496  cd Documents/SegundoPeriodo/Protocolos/socketApp/
+ 1497  ls
+ 1498  cd sockets-python/
+ 1499  ./cliente.py
+ 1500  ./cliente.py 192.168.0.114
+ 1501  cd Documents/ReactRocketseat/
+ 1502  ls
+ 1503  NetworkManager 
+ 1504  NLW/
+ 1505  ls
+ 1506  cd NLW/
+ 1507  ls
+ 1508  cd podcastrnext/
+ 1509  code .
+ 1510  cd Documents/ReactRocketseat/
+ 1511  ls
+ 1512  cd NLW/
+ 1513  ls
+ 1514  cd podcastrnext/
+ 1515  code .
+ 1516  /usr/bin/python3 "/home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/ImplementaçãoSemafaro/main.py"
+ 1517  cd Documents/ReactRocketseat/NLW/podcastrnext/
+ 1518  code .
+ 1519  git add .
+ 1520  git status
+ 1521  git add *
+ 1522  git status
+ 1523  git add Sistemas Operacionais/Threads/threads-python
+ 1524  git add /Sistemas\ Operacionais/Threads/threads-python
+ 1525  git add Sistemas\ Operacionais/Threads/threads-python/
+ 1526  git add Sistemas\ Operacionais/social-alunos/
+ 1527  git status
+ 1528  git commit -m
+ 1529  git commit -M
+ 1530  git push 
+ 1531  git init
+ 1532  git add README.md
+ 1533  echo "# InforTach">> README.md
+ 1534  git add README.md
+ 1535  git add .
+ 1536  git staus
+ 1537  git status
+ 1538  git commit -m "primeiro commit"
+ 1539  git branch -M main
+ 1540  git remote add origin https://github.com/christophersousa/InforTach.git
+ 1541  git push -u origin main
+ 1542  ssh aluno@192.168.0.114
+ 1543  ssh aluno@192.168.0114
+ 1544  ssh aluno@192.168.0.114
+ 1545  shh aluno@162.168.0.114
+ 1546  ssh aluno@162.168.0.114
+ 1547  ssh aluno@192.168.0.114
+ 1548  ssh aluno@162.168.0.114
+ 1549  ssh aluno@192.168.0.114
+ 1550  git add .
+ 1551  git status
+ 1552  git commit -m
+ 1553  git commit 
+ 1554  git commit -M
+ 1555  git push
+ 1556  git commit "segundo commit"
+ 1557  git commit -M  "segundo commit"
+ 1558  git push
+ 1559  git status
+ 1560  git commit -m "segundo commit"
+ 1561  git push
+ 1562  code
+ 1563  /home/christopher/cliente-btn.py
+ 1564  ssh aulono@192.168.0.114
+ 1565  ssh aluno@192.168.0.114
+ 1566  /home/christopher/servidor-btn.py
+ 1567  ssh aluno@192.168.0.114
+ 1568  ssh aluno@192.168.0.114
+ 1569  scp cliente-btp.py aluno@192.168.0.114
+ 1570  cp cliente-btp.py aluno@192.168.0.114
+ 1571  cp ./sockets-btp/ cliente-btp.py aluno@192.168.0.114
+ 1572  python3 cliente-btp.py 192.168.0.114
+ 1573  ssh aluno@192.168.0.114
+ 1574  ls
+ 1575  python3 cliente-btp.py 192.168.0.114
+ 1576  ls
+ 1577  python3 cliente-btp.py 192.168.0.114
+ 1578  python3 cliente-btp.py 192.168.0.114
+ 1579  ssh aluno@192.168.0.114
+ 1580  python3 cliente-btp.py 192.168.0.114
+ 1581  python3 cliente-btp.py 192.168.0.114
+ 1582  ssh aluno@192.168.0.114
+ 1583  python3 cliente-btp.py 192.168.0.114
+ 1584  ssh aluno@192.168.0.114
+ 1585  python3 cliente-btp.py 192.168.0.114
+ 1586  python3 cliente-btp.py 192.168.0.114
+ 1587  /usr/bin/python3 /home/christopher/cliente-btp.py
+ 1588  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVL.py
+ 1589  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arv.py
+ 1590  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVL.py
+ 1591  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arv.py
+ 1592  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVL.py
+ 1593  ssh aluno@192.168.0.114
+ 1594  cat /etc/*-release | grep PRETTY
+ 1595  curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
+ 1596  curl https://packages.microsoft.com/config/ubuntu/16.04/mssql-server.list | sudo tee /etc/apt/sources.list.d/mssql-server.list
+ 1597  ls -l /etc/apt/souces.list.d/
+ 1598  ls -l /etc/apt/sources.list.d/
+ 1599  sudo apt-get update
+ 1600  ls -l /etc/apt/sources.list.d/mssql-server.list
+ 1601  curl https://packages.microsoft.com/config/ubuntu/16.04/mssql-server.list | sudo tee /etc/apt/sources.list.d/mssql-server.list
+ 1602  curl https://packages.microsoft.com/config/ubuntu/16.04/mssql-server.list | sudo tee /etc/apt/sources.list.d/mssql-server-2019.list
+ 1603  curl https://packages.microsoft.com/config/ubuntu/16.04/mssql-server-2019.list | sudo tee /etc/apt/sources.list.d/mssql-server.list
+ 1604  ls -l /etc/apt/sources.list.d/
+ 1605  rm /etc/apt/sources.list.d/mssql-server-2019.list
+ 1606  ls -l /etc/apt/sources.list.d/
+ 1607  rm /etc/apt/sources.list.d/mssql-server-2019.list
+ 1608  su
+ 1609  sudo
+ 1610  sudo apt-get update
+ 1611  curl https://packages.microsoft.com/config/ubuntu/16.04/mssql-server-2019.list | sudo tee /etc/apt/sources.list.d/mssql-server-2019.list
+ 1612  sudo apt-get update
+ 1613  sudo apt-get install -y mssql-server
+ 1614  sudo /opt/mssql/bin/mssql-conf setup
+ 1615  scurl  https://packages.microsoft.com/config/ubuntu/16.04/prod.lis | sudo tee /etc/apt/sources.list.d/msprod.list
+ 1616  curl  https://packages.microsoft.com/config/ubuntu/16.04/prod.lis | sudo tee /etc/apt/sources.list.d/msprod.list
+ 1617  curl  https://packages.microsoft.com/config/ubuntu/16.04/prod.list | sudo tee /etc/apt/sources.list.d/msprod.list
+ 1618  sudo apt-get update
+ 1619  sudo apt-get install -y  mssql-tools
+ 1620  sudo apt-get install  mssql-tools
+ 1621  wget -c https://repo.mysql.com//mysql-apt-config_0.8.14-1_all.deb
+ 1622  sudo dpkg -i mysql-apt-config_0.8.14-1_all.deb
+ 1623  sudo apt update
+ 1624  sudo apt install mysql-server
+ 1625  sudo systemctl status mysql
+ 1626  sudo systemctl start mysql
+ 1627  sudo systemctl enable mysql
+ 1628  sudo apt install mysql-workbench-community
+ 1629  sudo mysql -u root -p
+ 1630  sudo apt update
+ 1631  free
+ 1632  sudo apt install mysql-server
+ 1633  sudo mysql_secure_installation
+ 1634  sudo mysql
+ 1635  mysql -u root -p
+ 1636  systemctl status mysql.service
+ 1637  sudo mysqladmin -p -u root version
+ 1638  "/home/christopher/import random.py"
+ 1639  /home/christopher/matriz.py
+ 1640  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVLRenato.py
+ 1641  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arv.py
+ 1642  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVLRenato.py
+ 1643  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAvlrenato.py
+ 1644  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVLRenato.py
+ 1645  cd Documents/projeto_LS/
+ 1646  npx create-react-app Reack-InforTach
+ 1647  npx create-react-app Reack-Infor-Tach
+ 1648  npx create-react-app reack-infor-tach
+ 1649  node reack-infor-tach/
+ 1650  code reack-infor-tach/
+ 1651  cd Documents/Monitoria/
+ 1652  mkdir react
+ 1653  cd react/
+ 1654  npx create-react-app cavalo
+ 1655  ls
+ 1656  rm -r cavalo/
+ 1657  ls
+ 1658  yarn start
+ 1659  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVLRenato.py
+ 1660  yarn start
+ 1661  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVLRenato.py
+ 1662  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVL.py
+ 1663  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVLRenato.py
+ 1664  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVL.py
+ 1665  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVLRenato.py
+ 1666  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVL.py
+ 1667  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVLRenato.py
+ 1668  yarn state
+ 1669  yarn start
+ 1670  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVLRenato.py
+ 1671  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arv.py
+ 1672  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVLRenato.py
+ 1673  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/teste.py
+ 1674  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/arvoreAVLRenato.py
+ 1675  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/tree/arvoreAVLRenato.py
+ 1676  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/tree/TreeAvl.py
+ 1677  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/tree/main.py
+ 1678  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/tree/TreeAvl.py
+ 1679  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/tree/main.py
+ 1680  yarn start
+ 1681  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/tree/TreeAvl.py
+ 1682  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/tree/main.py
+ 1683  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/tree/TreeAvl.py
+ 1684  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/tree/main.py
+ 1685  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/teste.py
+ 1686  /usr/bin/python3 /home/christopher/Documents/árvoreAVL/tree/main.py
+ 1687  yarn start3
+ 1688  yarn start
+ 1689  start "" /w <path where SSMS-Setup-ENU.exe file is located> /Quiet SSMSInstallRoot=<path where you want to install SSMS>
+ 1690  start "" /w %systemdrive%\SSMSfrom\SSMS-Setup-ENU.exe /Quiet SSMSInstallRoot=%systemdrive%\SSMSto
+ 1691  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/teste1.py
+ 1692  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/servidor.py
+ 1693  ssh aluno@192.168.0.114
+ 1694  cd Documents/
+ 1695  ls
+ 1696  cd funçõesDeOrdenamento/
+ 1697  ls
+ 1698  python3 servidor-btn.py 
+ 1699  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1700  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/teste1.py
+ 1701  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1702  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1703  cd Documents/projeto_protocolo/
+ 1704  python3 servidor.py 
+ 1705  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1706  cd Documents/projeto_protocolo/
+ 1707  python3 servidor.py 
+ 1708  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1709  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1710  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1711  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1712  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1713  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1714  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1715  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1716  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1717  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1718  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/servidor-btn.py
+ 1719  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1720  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1721  cd Documents/Monitoria/cardsResponsivel/site/
+ 1722  code
+ 1723  code .
+ 1724  sudo wget https://github.com/christophersousa/Primeiro-Periodo/tree/master/LM/linguagem%20de%20marca%C3%A7%C3%A3o/Oitava%20Aula
+ 1725  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1726  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1727  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1728  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1729  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1730  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1731  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/servidor-btn.py
+ 1732  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1733  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1734  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor-btn.py
+ 1735  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1736  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1737  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1738  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1739  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor-btn.py
+ 1740  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1741  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1742  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor.py
+ 1743  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/cliente-btn.py
+ 1744  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor-btn.py
+ 1745  cd Documents/
+ 1746  ls
+ 1747  cd projeto_protocolo/
+ 1748  ls
+ 1749  python3 Cliente.py 
+ 1750  cd Documents/
+ 1751  cd projeto_protocolo/
+ 1752  python3 Cliente.py 
+ 1753  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/Servidor.py
+ 1754  cd Documents/projeto_protocolo/
+ 1755  python3 Cliente.py 
+ 1756  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/Servidor.py
+ 1757  cd Documents/projeto_protocolo/
+ 1758  python3 Cliente.py 
+ 1759  cd Documents/projeto_protocolo/
+ 1760  python3 Cliente.py 
+ 1761  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/Servidor.py
+ 1762  cd Documents/projeto_protocolo/
+ 1763  python3 Cliente.py 
+ 1764  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/Servidor.py
+ 1765  cd Documents/projeto_protocolo/
+ 1766  python3 Cliente.py 
+ 1767  cd Documents/projeto_protocolo/
+ 1768  python3 Cliente.py 
+ 1769  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/Servidor.py
+ 1770  cd Documents/projeto_protocolo/
+ 1771  python3 Cliente.py 
+ 1772  cd Documents/projeto_protocolo/
+ 1773  python3 Cliente.py 
+ 1774  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/Servidor.py
+ 1775  cd Documents/projeto_protocolo/
+ 1776  python3 Cliente.py 
+ 1777  cd Documents/projeto_protocolo/
+ 1778  python3 Cliente.py 
+ 1779  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/Servidor.py
+ 1780  cd Documents/projeto_protocolo/
+ 1781  python3 Cliente.py 
+ 1782  cd Documents/projeto_protocolo/
+ 1783  python3 Cliente.py 
+ 1784  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/Servidor.py
+ 1785  cd Documents/projeto_protocolo/
+ 1786  python3 Cliente.py 
+ 1787  cd Documents/projeto_protocolo/
+ 1788  python3 Cliente.py 
+ 1789  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/Servidor.py
+ 1790  cd Documents/projeto_protocolo/
+ 1791  python3 Cliente.py 
+ 1792  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/Servidor.py
+ 1793  cd Documents/projeto_protocolo/
+ 1794  python3 Cliente.py 
+ 1795  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/Servidor.py
+ 1796  cd Documents/projeto_protocolo/
+ 1797  python3 Cliente.py 
+ 1798  cd Documents/projeto_protocolo/cliente/
+ 1799  python3 Cliente.py 
+ 1800  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor/Servidor.py
+ 1801  cd Documents/projeto_protocolo/cliente/
+ 1802  python3 Cliente.py 
+ 1803  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor/Servidor.py
+ 1804  cd Documents/projeto_protocolo/cliente/
+ 1805  python3 Cliente.py 
+ 1806  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor/Servidor.py
+ 1807  cd Documents/projeto_protocolo/cliente/
+ 1808  python3 Cliente.py 
+ 1809  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor/Servidor.py
+ 1810  cd Documents/projeto_protocolo/cliente/
+ 1811  python3 Cliente.py 
+ 1812  cd Documents/projeto_protocolo/cliente/
+ 1813  python3 Cliente.py 
+ 1814  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor/Servidor.py
+ 1815  cd Documents/projeto_protocolo/cliente/
+ 1816  python3 Cliente.py 
+ 1817  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor/Servidor.py
+ 1818  cd Documents/projeto_protocolo/cliente/
+ 1819  python3 Cliente.py 
+ 1820  sql server
+ 1821  osql -L
+ 1822  sql -L
+ 1823  sudo ls /opt/mssql/bin/
+ 1824  sudo cat /opt/mssql/bin/mssql-cof
+ 1825  sudo cat /opt/mssql/bin/
+ 1826  sudo ls /opt/mssql/bin/
+ 1827  sudo cat /opt/ms
+ 1828  sudls /opt/mssql/bin/
+ 1829  sudo ls /opt/mssql/bin/
+ 1830  sqlcmd -S localhost -U SA -P '88536981'
+ 1831  sqlcmd -S localhost -U SA -P 88536981
+ 1832  systemctl status mssql-server
+ 1833  sudo curl -o /etc/yum.repos.d/mssql-server.repo https://packages.microsoft.com/config/rhel/7/mssql-server-2017.repo
+ 1834  sudo yum install -y mssql-server
+ 1835  sudo curl -o /etc/yum.repos.d/mssql-server.repo https://packages.microsoft.com/config/rhel/7/mssql-server-2017.repo
+ 1836  sudo curl -o /etc/yum.repos.d/mssql-server.repohttps://packages.microsoft.com/config/rhel/7/mssql-server-2017.repo
+ 1837  sudo curl -o /etc/yum.repos.d/mssql-server.repo https://packages.microsoft.com/config/rhel/7/mssql-server-2017.repo
+ 1838  wget -qO- https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
+ 1839  sudo add-apt-repository "$(wget -qO- https://packages.microsoft.com/config/ubuntu/16.04/mssql-server-2019.list)"
+ 1840  sudo add-apt-repository "$(wget -qO- https://packages.microsoft.com/config/ubuntu/18.04/mssql-server-2019.list)"
+ 1841  sudo apt-get update
+ 1842  sudo apt-get install -y mssql-server
+ 1843  sudo /opt/mssql/bin/mssql-conf setup
+ 1844  sudo apt-get update
+ 1845  sudo apt-get install -y mssql-server
+ 1846  sudo /opt/mssql/bin/mssql-conf setup
+ 1847  sudo systemctl stop mssql-serve
+ 1848  sudo /opt/mssql/bin/mssql-conf setup
+ 1849  sudo systemctl stop mssql-server
+ 1850  sudo /opt/mssql/bin/mssql-conf setup
+ 1851  systemctl status mssql-server --no-pager
+ 1852  SELECT @@version
+ 1853  sudo -
+ 1854  su -
+ 1855  mysql -u Christopher@localhost -p
+ 1856  cd Documents/projeto_protocolo/cliente/
+ 1857  python3 Cliente.py 
+ 1858  cd Documents/projeto_protocolo/cliente/
+ 1859  cd ..
+ 1860  python3 cliente-btn.py 
+ 1861  /usr/bin/python3 /home/christopher/Documents/projeto_protocolo/servidor/Servidor.py
+ 1862  cd Documents/projeto_protocolo/cliente/
+ 1863  cd ..
+ 1864  python3 cliente-btn.py 
+ 1865  hostname
+ 1866  shh root@192.168.0.114
+ 1867  ssh root@192.168.0.114
+ 1868  ssh aluno@192.168.0.114
+ 1869  /usr/bin/python3 /home/christopher/Documents/funçõesDeOrdenamento/servidor-btn.py
+ 1870  yarn start
+ 1871  yarn add node-sass
+ 1872  yarn start
+ 1873  yarn add react-router-dom
+ 1874  yarn start
+ 1875  yarn add sass
+ 1876  clear
+ 1877  yarn start
+ 1878  cd Documents/projeto_protocolo/cliente/
+ 1879  cd ..
+ 1880  python3 cliente-btn.py 
+ 1881  yarn start
+ 1882  cd Documents/SegundoPeriodo/Sistemas\ Operacionais/
+ 1883  mkdir carçaTesouro2
+ 1884  cd carçaTesouro2/
+ 1885* wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1F9NQmp3AD8coc90jr-iUxuSbgHxYZHh-&#3
+ 1886  wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1F9NQmp3AD8coc90jr-iUxuSbgHxYZHh-&#39
+
+
+
+ 1887  ls
+ 1888  cd cacatesouro2-sa/
+ 1889  ls
+ 1890  cat inst1.txt 
+ 1891  ls
+ 1892  du
+ 1893  du -h
+ 1894  df
+ 1895  sudo fdisk -l
+ 1896  cd a
+ 1897  ls
+ 1898  cat inst2.txt 
+ 1899  whereis ls
+ 1900  whereis cd
+ 1901  whereis wget
+ 1902  pwd
+ 1903  cd /
+ 1904  ls
+ 1905  ls home
+ 1906  cd /home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/carçaTesouro2/cacatesouro2-sa/a
+ 1907  cd ./home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/carçaTesouro2/cacatesouro2-sa/a
+ 1908  ls
+ 1909  cd ./home/christopher/Documents/SegundoPeriodo/Sistemas Operacionais/carçaTesouro2/cacatesouro2-sa/a
+ 1910  cd home/christopher/Documents/SegundoPeriodo/Sistemas\ Operacionais/carçaTesouro2/a
+ 1911  cd home/christopher/Documents/SegundoPeriodo/Sistemas\ Operacionais/carçaTesouro2
+ 1912  ls
+ 1913  cd cacatesouro2-sa/a
+ 1914  ls
+ 1915  file inst2.txt 
+ 1916  file arq.txt 
+ 1917  nano arq.txt 
+ 1918  file arq.txt 
+ 1919  cd s
+ 1920  ls
+ 1921  cat inst3.txt 
+ 1922  find . -name arq2.txt
+ 1923  find . -name arq*
+ 1924  cat arq2.txt | grep La
+ 1925  cat arq2.txt | grep LA
+ 1926  cat arq2.txt | grep CH
+ 1927  cat arq2.txt | grep C
+ 1928  mv arq2.txt alunos.txt
+ 1929  grep ANA *.*
+ 1930  grep -r ANA *.*
+ 1931  grep -r ANA *.text
+ 1932  grep -r ANA *.txt
+ 1933  cd p
+ 1934  ls
+ 1935  cat inst4.txt 
+ 1936  head noticia.txt
+ 1937  head -n3 noticia.txt
+ 1938  tail noticia.txt
+ 1939  tail -n5 noticia.txt
+ 1940  cat inst4.txt 
+ 1941  sudo mkdir /mnt/pen
+ 1942  sudo fdisl -l
+ 1943  sudo fdisk -l
+ 1944  sudo mount /dev/sda /mnt/pen
+ 1945  cd ../../../
+ 1946  ls
+ 1947  source validar.sh "CHRISTOPHER SILVA DE SOUSA"
+ 1948  ls
+ 1949  cd a/
+ 1950  ls
+ 1951  cd s
+ 1952  ls
+ 1953  cat arq3.txt 
+ 1954  cat inst3.txt 
+ 1955  grep -r ANA *.txt
+ 1956  ls
+ 1957  cd p
+ 1958  cat inst4.txt 
+ 1959  cd ../../../
+ 1960  source validar.sh "CHRISTOPHER SILVA DE SOUSA"

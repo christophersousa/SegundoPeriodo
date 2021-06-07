@@ -1,0 +1,24 @@
+
+
+== Caça ao Tesouro 2 - Sistemas de arquivos ==
+
+
+Olá. Você está participando de uma caça ao tesouro. Está preparado?
+Desta vez o tema dessa caça é sistemas de arquivos. Para isso, digitará comandos para abrir portas (diretórios). Em cada porta que você entrar, não se esqueça de listar o que tem dentro (ls). Pelo menos uma coisa você sabe que terá: um arquivo de instruções. Dê um cat no arquivo de instruções de cada porta aberta para ver o que fazer. Ao final, você gostará do que encontrará. Está preparado(a)? Vamos lá ;)
+
+1 - Dê um ls no diretório corrente para ver o que tem nele.
+
+Quanto de espaço em disco o diretório corrente (e todos os seus subdiretórios) usa? O comando du (disk usage) dá informações sobre uso do disco.
+
+2 - Digite o comando du na pasta corrente. Esse comando informa o espaço utilizado em cada diretório e subdiretório do atual. Mas não nos ajuda em nada, pois não são números entendíveis ao ser humano.
+
+3 - Digite du -h para ver informações de quantos bytes estão sendo utilizados.
+
+Mas quanto de disco temos livre para usar?
+
+4 - o comando df (disk free) informa quanto de disco está sendo usado por cada partição. Digite df no diretório corrente.
+
+5 - Para saber quais partições existem no seu disco, digite fdisk -l (precisa executar como root, ou seja, executar sudo fdisk -l [se você estiver numa versão instalada do Linux], ou sem sudo, se tiver via docker). [Se você estiver no docker, não verá nenhuma partição]
+
+6 - Entre no diretório a.
+

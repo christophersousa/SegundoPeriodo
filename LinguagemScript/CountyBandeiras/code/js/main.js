@@ -5,6 +5,12 @@ import flags from './model/flags.js';
     const ViewBandeiras = createBandeiras(bandeiras);
     main.insertAdjacentHTML('beforeend', ViewBandeiras)
 }*/
+
+/*flagsBandeira.forEach(bandeira => {
+   main.insertAdjascentHTML("beforeend", viewBandeiras(bandeira);
+
+});*/
+const main = document.querySelector('.row')
 let fim = 50;
 let inicio = 0;
 
@@ -18,7 +24,6 @@ function createFlag(){
 
 function createBandeiras(flagsBandeiras) {
     for(const bandeiras of flagsBandeiras){
-        const main = document.querySelector('.row')
         const ViewBandeiras = viewBandeiras(bandeiras);
         main.insertAdjacentHTML('beforeend', ViewBandeiras)
     }
